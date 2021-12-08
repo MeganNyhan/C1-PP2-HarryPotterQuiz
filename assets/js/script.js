@@ -24,4 +24,9 @@ exit_btn.onclick = () =>{
 //When "continue button" is clicked:
 continue_btn.onclick = () =>{
     info_box.classList.remove("activeInfo");
+    quiz_box.classList.add("activeQuiz");
+    showQuestions(0);
+    queCounter(1);
+    startTimer(20);
+    startTimerLine(0);
 }
