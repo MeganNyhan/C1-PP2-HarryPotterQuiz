@@ -43,6 +43,7 @@ body {
     color:#1A472A;
 }
 
+/* Info Box */
 .info_box{
     width: 750px;
     background:#fff;
@@ -77,4 +78,33 @@ body {
     border-radius: 5px;
     border: 1px solid #740001;
     transition: all 0.3s ease;
+}
+
+/* Quiz Box */
+.quiz_box{
+    width: 550px;
+    background: #fff;
+    border-radius: 5px;
+    transform: translate(-50%, -50%) scale(0.9);
+    opacity: 1;
+    pointer-events: none;
+    transition: all 0.3s ease;
+}
+
+.quiz_box header{
+    position: relative;
+    z-index: 2;
+    height: 70px;
+    padding: 0 30px;
+    background: #fff;
+    border-radius: 5px 5px 0 0;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.1);
+}
+
+.quiz_box header .title {
+    font-size: 20px;
+    font-weight: 600;
 }
