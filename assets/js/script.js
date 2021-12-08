@@ -36,3 +36,35 @@ restart_quiz.onclick = () => {
     quiz_box.classList.add("activeQuiz");
     result_box.classList.remove("activeResult");
 }
+
+//When "quit quiz" button is clicked:
+questions.quiz =() =>{
+    window.location.reload();
+}
+
+//When "next button" is clicked:
+next_btn.onclick = () => {
+    if (que_count < questions.length - 1){
+        que_count ++;
+        que_numb ++;
+        showQuestions(que_count);
+        queCounter(que_numb);
+        clearInterval(counter);
+        clearInterval(counterLine);
+        startTimer(timeValue);
+        startTimerLine(widthValue);
+        timeText.textContent = "Time Left";
+        next_btn.classList.remove("show");
+    }else {
+        clearInterval(counter);
+        clearInterval(counterLine);
+    }
+}
+
+// Get Questions and answers form Array to display:
+
+function showQuestions(index){
+    const que_text = document.querySelector(".que_text");
+}
+
+let que_tag = '<span>' + questions[index].numb + ". " questions [index] .question + '</span>';
