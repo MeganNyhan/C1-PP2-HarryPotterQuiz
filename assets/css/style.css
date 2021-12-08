@@ -293,7 +293,41 @@ footer button .show{
     flex-direction: column;
     justify-content: center;
     transform: translate(-50%, -50%) scale(0.9);
-    opacity:0;
+    opacity:1;
     pointer-events: none;
+    transition: all 0.3s ease;
+}
+
+.result_box .icon{
+    font-size: 50px;
+    color:gold;
+    margin-bottom: 10px;
+}
+
+.result_box .complete_text{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.result_box .score_text span{
+    padding: 0 4px;
+    font-weight: 600;
+}
+
+.result_box .buttons{
+    display: flex;
+    margin: 20px 0;
+}
+
+.result_box .buttons{
+    margin: 0 10px;
+    height: 45px;
+    padding: 0 20px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 5px;
     transition: all 0.3s ease;
 }
