@@ -15,3 +15,8 @@ const timeCount = document.querySelector(".timer .timer_sec");
 start_btn.onclick = () =>{
     info_box.classList.add("activeInfo");
 }
+
+//When "Exit quiz" button is clicked:
+exit_btn.onclick = () =>{
+    info_box.classList.remove("activeInfo");
+}
