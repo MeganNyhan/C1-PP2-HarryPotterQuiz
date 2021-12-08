@@ -42,3 +42,13 @@ body {
 .start_btn button:hover{
     color:#1A472A;
 }
+
+.info_box{
+    width: 750px;
+    background:#fff;
+    border-radius: 2.5px;
+    transform:translate(-50%, -50%) scale(0.9);
+    opacity:0;
+    pointer-events:none;
+    transition: all 0.3s ease;
+}
