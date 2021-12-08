@@ -64,3 +64,17 @@ body {
     font-size: 20px;
     font-weight: 600px;
 }
+
+.info_box .buttons{
+    margin:0 5px;
+    height: 40px;
+    width: 100px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #740001;
+    transition: all 0.3s ease;
+}
