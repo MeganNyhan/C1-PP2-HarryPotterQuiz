@@ -16,7 +16,12 @@ start_btn.onclick = () =>{
     info_box.classList.add("activeInfo");
 }
 
-//When "Exit quiz" button is clicked:
+//When "exit quiz" button is clicked:
 exit_btn.onclick = () =>{
+    info_box.classList.remove("activeInfo");
+}
+
+//When "continue button" is clicked:
+continue_btn.onclick = () =>{
     info_box.classList.remove("activeInfo");
 }
