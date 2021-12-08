@@ -82,7 +82,7 @@ body {
 
 /* Quiz Box */
 .quiz_box{
-    width: 550px;
+    width: 750px;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -107,4 +107,36 @@ body {
 .quiz_box header .title {
     font-size: 20px;
     font-weight: 600;
+}
+
+.quiz_box header .timer{
+    color:#fff;
+    background:#1A472A;
+    border: 1px solid #1A472A;
+    height: 45px;
+    padding: 0 8px;
+    border-radius: 2.5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 145px;
+}
+
+.quiz_box header .timer .time_keft_txt{
+    font-weight: 400;
+    font-size: 20px;
+    user-select: none;
+}
+
+.quiz_box header .timer .timer_sec{
+    font-size:18px;
+    font-weight: 500;
+    height: 30px;
+    width: 45px;
+    color: black;
+    border-radius: 2.5px;
+    line-height: 30px;
+    text-align: center;
+    background: silver;
+    user-select: none;
 }
