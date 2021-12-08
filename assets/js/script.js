@@ -30,3 +30,9 @@ continue_btn.onclick = () =>{
     startTimer(20);
     startTimerLine(0);
 }
+
+//When "restart quiz" button clicked:
+restart_quiz.onclick = () => {
+    quiz_box.classList.add("activeQuiz");
+    result_box.classList.remove("activeResult");
+}
