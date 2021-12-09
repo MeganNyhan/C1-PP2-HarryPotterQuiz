@@ -49,8 +49,11 @@ function showQuestions(index){
     option_list.innerHTML = option_tag;
 }
 
+function queCounter(index){
 const bottom_ques_counter = quiz_box.querySelector(".total_que");
-let totalQuesCountTag = 
+let totalQuesCountTag = '<span><p>' + index + '</p>of<p>' + questions.length +' </p>Questions</span>';
+bottom_ques_counter.innerHTML = totalQuesCountTag;
+}
 
 
 
