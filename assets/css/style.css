@@ -116,6 +116,8 @@ body {
 }
 
 .quiz_box header{
+    position: relative;
+    z-index: 99;
     height: 70px;
     padding: 0 30px;
     background: #fff;
@@ -138,8 +140,63 @@ body {
     justify-content: space-between;
     width: 145px;
     height: 45px;
-    background: #cce5ff;
-    border: 1px solid #b8daff;
+    background: #FFF4B1;
+    border: 1px solid #FFDB00;
     border-radius: 5px;
     padding: 0 8px 0 10px;
+}
+
+.quiz_box header .timer .time_text{
+    font-weight: 400;
+    font-size: 20px;
+    user-select: none;
+}
+
+.quiz_box header .timer .timer_sec{
+    font-size: 20px;
+    font-weight: 500;
+    background: #000;
+    height: 30px;
+    width: 45px;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    user-select: none;
+}
+
+.quiz_box section{
+    padding: 25px 30px 20px 30px;
+    background: #fff;
+}
+
+.quiz_box section .que_text{
+    font-size: 25px;
+    font-weight:600;
+}
+
+.quiz_box section .option_list{
+    padding: 20px 0;
+    display: block;
+}
+
+section .option_list .option{
+    background: #fff;
+    border: 1px solid #740001;
+    border-radius: 5px;
+    padding: 8px 15px;
+    margin-bottom: 15px;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+section .option_list .option:hover{
+    color: #740001;
+    background: #fff;
+    border-color: red;
 }
