@@ -200,3 +200,14 @@ section .option_list .option:hover{
     background: #fff;
     border-color: red;
 }
+
+.option_list .option:last-child{
+    margin-bottom:0px;
+}
+
+.option_list .option .icon{
+    height: 26px;
+    width: 26px;
+    border: 2px solid transparent;
+    border-radius: 50%;
+}
