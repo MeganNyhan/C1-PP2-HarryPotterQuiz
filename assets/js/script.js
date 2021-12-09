@@ -4,14 +4,18 @@ const info_box = document.querySelector(".info_box");
 const exit_btn = info_box.querySelector(".buttons .quit");
 const continue_btn = info_box.querySelector(".buttons .restart");
 
-//When "startQuiz" button clicked
+//When "Start Quiz" button clicked
 start_btn.onclick = ()=>{
-    info_box.classList.add("activeInfo"); //show info box
+    info_box.classList.add("activeInfo"); 
 }
 
-// When "startQuiz" button clicked
-start_btn.onclick = ()=>{
-    info_box.classList.add("activeInfo"); //show info box
+// When "Exit Quiz" button clicked
+exit_btn.onclick = ()=>{
+    info_box.classList.remove("activeInfo"); 
 }
 
+// When "Continue Quiz" button clicked
+continue_btn.onclick = ()=>{
+    quiz_box.classList.add("activeQuiz"); 
+}
 

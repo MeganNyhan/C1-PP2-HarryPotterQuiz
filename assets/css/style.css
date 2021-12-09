@@ -20,6 +20,7 @@ body {
     transform: translate(-50%, -50%);
     box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2),
                 0px 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: all 0.3s ease;
 }
 
 .info_box.activeInfo,
@@ -94,6 +95,7 @@ body {
     margin: 0 10px;
     height: 40px;
     width: 100px;
+    outline: none;
     border: 1px solid #740001;
     border-radius: 5px;
     color: #740001;
