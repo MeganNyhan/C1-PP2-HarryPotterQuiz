@@ -33,6 +33,7 @@ body {
 
 /* Start Info Box Styling */
 .info_box{
+    display:none;
     width: 740px;
     background: #fff;
     border-radius: 5px;;
@@ -56,4 +57,52 @@ body {
 .info_box .info_list .info{
     margin: 5px 0;
     font-size: 17px;
+}
+
+
+.info_box .info_list .info span{
+    font-weight: 600;
+    color: #740001;
+}
+
+.info_box .buttons{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 10px;
+    border-top: 1px solid lightgray;
+}
+
+.info_box .buttons button{
+    margin: 0 10px;
+    height: 40px;
+    width: 100px;
+    border: 1px solid #740001;
+    border-radius: 5px;
+    color: #740001;
+    font-size:20px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.buttons button.quit{
+    color: #740001;
+    border-color: #740001;
+    background: white;
+}
+
+.buttons button.quit:hover{
+    background: lightpink;
+}
+
+.buttons button.restart:hover{
+    background: lightgreen;
+}
+
+.buttons button.restart{
+    color: #1A472A;
+    border-color: #1A472A;
+    background: white;
 }
