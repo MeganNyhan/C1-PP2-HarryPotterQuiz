@@ -65,6 +65,12 @@ body {
     cursor: pointer;
 }
 
+.start_btn button:hover{
+    color: #000;
+    border-color: #1A472A;
+    background: lightgreen;  
+}
+
 /* Start Info Box Styling */
 .info_box{
     width: 740px;
