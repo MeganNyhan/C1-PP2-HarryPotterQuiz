@@ -351,5 +351,6 @@ footer .next_btn:hover{
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
+    border: 1px solid #740001;
 }
 
