@@ -219,7 +219,7 @@ section .option_list .option{
 section .option_list .option:hover{
     color: #740001;
     background: #fff;
-    border-color: red;
+    border-color: black;
 }
 
 .option_list .option:last-child{
