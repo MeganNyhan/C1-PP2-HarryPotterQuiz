@@ -80,7 +80,7 @@ let questions = [
     },
     {
         numb:8,
-        question: "What is a 'muggle?'",
+        question: "What is a Muggle?",
         answer:  "Someone whose parents aren't magical and can't perform magic?",
         options:[
             "A type of puppet?",
