@@ -150,11 +150,19 @@ function showResult(){
     quiz_box.classList.remove("activeQuiz");
     result_box.classList.add("activeResult");
     const scoreText = result_box.querySelector(".score_text");
-    if(userScore > 3){
-        let scoreText = '<span> You Got:<p>' +  userScore  +' </p> out of <p>' + questions.length + '</p> </span>';
-        
+    if(userScore > 9){
+        let scoreTag = '<span> You Got:<p>' +  userScore  +'</p> out of <p>' + questions.length + '</p> </span>';
+        scoreText.innerHTML = scoreTag;
         }
-}
+        else if(userScore > 1){
+            let scoreTag = '<span> You Got <p>' + userScore +'</p> out of <p> ' + questions.length +'</p></span>';
+            scoreText.innerHTML = scoreTag;
+        }
+        else{
+            let scoreTag = '<span> You got only <p>' + userScore + '</p> out of <p>' + questions.length + '</p></span>';
+            scoreText.innerHTML = scoreTag;
+        }
+}   
 
 //Timer in Quiz
 function startTimer(time){
