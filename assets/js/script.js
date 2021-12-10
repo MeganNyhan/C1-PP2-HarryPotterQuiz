@@ -53,6 +53,7 @@ restart_quiz_quiz.onclick = () => {
     showQuestions (que_count);
     queCounter(que_numb);
     clearInterval(counter);
+    clearInterval(counterLine);
     startTimer(timeValue);
     startTimerLine(widthValue);
     timeText.textContent = "Time Left";
@@ -60,7 +61,7 @@ restart_quiz_quiz.onclick = () => {
 }
 
 //When "Quit Quiz" button is pressed
-quit_quiz.onclick = () =>{
+quit_quiz.onclick = ()=>{
     window.location.reload();
 }
 
@@ -87,16 +88,15 @@ next_btn.onclick = () => {
     }
 }
 
-
 //Questions and Answers Array
 function showQuestions(index){
     const que_text = document.querySelector(".que_text");
 
-    let que_tag = '<span>' + questions[index].numb + ". " + questions[index].question + '</span>'
-    let option_tag = '<div class="option"><span>' + questions[index].options[0] +'</span></div>'
-                    +'<div class="option"><span>' + questions[index].options[1] +'</span></div>'
-                    +'<div class="option"><span>' + questions[index].options[2] +'</span></div>'
-                    +'<div class="option"><span>' + questions[index].options[3] +'</span></div>';
+    let que_tag = '<span>'+ questions[index].numb + ". "+ questions[index].question +'</span>';
+    let option_tag = '<div class="option"><span>'+ questions[index].options[0] +'</span></div>'
+    + '<div class="option"><span>'+ questions[index].options[1] +'</span></div>'
+    + '<div class="option"><span>'+ questions[index].options[2] +'</span></div>'
+    + '<div class="option"><span>'+ questions[index].options[3] +'</span></div>';
     que_text.innerHTML = que_tag;
     option_list.innerHTML = option_tag;
 
@@ -108,8 +108,29 @@ function showQuestions(index){
 }
 
 //Icons
-let tickIconTag= 'div class="icon tick"><i class="fas fa-check"></i></div>';
-let tickIconTag= 'div class="icon cross"><i class="fas fa-times"></i></div>';
+let tickIconTag= '<div class="icon tick"><i class="fas fa-check"></i></div>';
+let crossIconTag= '<div class="icon cross"><i class="fas fa-times"></i></div>';
+
+//When user selects an answer
+function optionSelected(answer){
+    clearInterval(counter);
+    clearInterval(counterLine);
+    let userAns = answer.textContent;
+    let correctAns = questions[que_count].answer;
+    const allOptions = option_list.children.length;
+
+    if(userAns == correctAns){
+        userScore += 1;
+        answer.classList.add("correct");
+        answer.insertAdjacentHTML("beforeend", tickIconTag);
+        console.log("Correct Answer");
+        console.log("Your correct answers = " + userScore);
+    }else{
+        answer.classList.add("incorrect");
+        answer.insertAdjacentHTML("beforeend", crossIconTag);
+        console.log("Wrong Answer");
+    }
+}
 
 //Timer in Quiz
 function startTimer(time){
