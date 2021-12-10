@@ -4,6 +4,11 @@ const info_box = document.querySelector(".info_box");
 const exit_btn = info_box.querySelector(".buttons .quit");
 const continue_btn = info_box.querySelector(".buttons .restart");
 const quiz_box = document.querySelector(".quiz_box");
+const result_box = document.querySelector(".result_box");
+const option_list = document.querySelector(".option_list");
+const time_line = document.querySelector("header .time_line");
+const timeText = document.querySelector(".timer .time_left_txt");
+const timeCount = document.querySelector(".timer .timer_sec");
 
 //When "Start Quiz" button clicked
 start_btn.onclick = ()=>{
@@ -101,6 +106,11 @@ function showQuestions(index){
         option[i].setAttribute("onclick", "optionSelected(this");
     }
 }
+
+//Icons
+let tickIconTag= 'div class="icon tick"><i class="fas fa-check"></i></div>';
+let tickIconTag= 'div class="icon cross"><i class="fas fa-times"></i></div>';
+
 //Timer in Quiz
 function startTimer(time){
     counter = setInterval(timer, 1000);
