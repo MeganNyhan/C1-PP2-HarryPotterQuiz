@@ -26,8 +26,8 @@ continue_btn.onclick = ()=>{
     quiz_box.classList.add("activeQuiz");
     showQuestions(0);
     queCounter(1);
-    startTimer(15);
-    startTimer(0);
+    startTimer(20);
+    startTimerLine(0);
 }
 
 let timeValue = 20;
@@ -42,7 +42,7 @@ const restart_quiz = result_box.querySelector(".buttons .restart");
 const quit_quiz = result_box.querySelector(".buttons .quit");
 
 // When "restart quiz" button clicked:
-restart_quiz_quiz.onclick = () => {
+restart_quiz.onclick = ()=> {
     quiz_box.classList.add("activeQuiz");
     result_box.classList.remove("activeResult");
     timeValue = 20;
@@ -103,7 +103,7 @@ function showQuestions(index){
     const option = option_list.querySelectorAll (".option");
 
     for(i=0; i < option.length; i++){
-        option[i].setAttribute("onclick", "optionSelected(this");
+        option[i].setAttribute("onclick", "optionSelected(this)");
     }
 }
 
@@ -209,7 +209,6 @@ function queCounter(index){
     let totalQueCounTag = '<span><p>' + index + '</p> of <p>' + questions.length +'</p> Questions </span>';
     bottom_ques_counter.innerHTML = totalQueCounTag;
 }
-
 
 
 
