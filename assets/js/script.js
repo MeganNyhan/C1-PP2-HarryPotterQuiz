@@ -83,7 +83,15 @@ next_btn.onclick = () => {
 }
 
 
+//Questions and Answers Array
+function showQuestions(index){
+    const que_text = document.querySelector(".que_text");
 
+    
+}
+
+
+//Timer in Quiz
 function startTimer(time){
     counter = setInterval(timer, 1000);
     function timer(){
@@ -102,6 +110,8 @@ function startTimer(time){
         }
     }
 }
+
+
 
 
 
