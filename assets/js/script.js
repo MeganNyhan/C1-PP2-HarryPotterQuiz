@@ -63,8 +63,45 @@ const next_btn = document.querySelector("footer .next_btn");
 const bottom_ques_counter = document.querySelector("footer .total_que");
 
 //When "Next Button" is Pressed
+next_btn.onclick = () => {
+    if(que_count < questions.length -1 ){
+        que_count++;
+        que_numb++;
+        showQuestions(que_count);
+        queCounter(que_numb);
+        clearInterval(counter);
+        clearInterval(counterLine);
+        startTimer(timeValue);
+        startTimerLine (widthValue);
+        timeText.textContent = "Time Left";
+        next_btn.classList.remove("show");
+    }else{
+        clearInterval(counter);
+        clearInterval(counterLine);
+        showResult();
+    }
+}
 
 
+
+function startTimer(time){
+    counter = setInterval(timer, 1000);
+    function timer(){
+        timeCount.textContent=time;
+        time--;
+        if(time < 0){
+            clearInterval(counter);
+            timeText.tectContent = "Time Off";
+            const allOptions = option_list.children.length;
+            let correctAns = questions [que_count].answer;
+            for (i=0; i < allOptions; i++){
+                if(option_list.children[i].textContent == correctAns){
+                    option_list.children[i].setAttribut("class", "option correct");
+                }
+            }
+        }
+    }
+}
 
 
 
