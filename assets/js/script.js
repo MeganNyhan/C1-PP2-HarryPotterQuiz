@@ -12,7 +12,7 @@ const timeCount = document.querySelector(".timer .timer_sec");
 
 //When "Start Quiz" button clicked
 start_btn.onclick = ()=>{
-    info_box.classList.add("activeInfo"); 
+    info_box.classList.add("activeInfo");
 }
 
 // When "Exit Quiz" button clicked

@@ -22,7 +22,17 @@ body {
 #start_sec{
     font-size: 50px;
     left:28%;
-    top:20%;
+    top:25%;
+    text-align: center;
+    color: white;
+    font-family: 'Benne', serif;
+    position: absolute;
+}
+
+#logo{
+    font-size: 20px;
+    left:80%;
+    top:95%;
     text-align: center;
     color: white;
     font-family: 'Benne', serif;
@@ -69,6 +79,10 @@ body {
     color: #000;
     border-color: #1A472A;
     background: lightgreen;  
+}
+
+#contact{
+    color:white;
 }
 
 /* Start Info Box Styling */
