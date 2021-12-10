@@ -54,6 +54,16 @@ restart_quiz_quiz.onclick = () => {
     next_btn.classList.remove("show");
 }
 
+//When "Quit Quiz" button is pressed
+quit_quiz.onclick = () =>{
+    window.location.reload();
+}
+
+const next_btn = document.querySelector("footer .next_btn");
+const bottom_ques_counter = document.querySelector("footer .total_que");
+
+//When "Next Button" is Pressed
+
 
 
 
