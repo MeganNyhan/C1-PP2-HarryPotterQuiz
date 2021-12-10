@@ -129,7 +129,20 @@ function optionSelected(answer){
         answer.classList.add("incorrect");
         answer.insertAdjacentHTML("beforeend", crossIconTag);
         console.log("Wrong Answer");
+
+        for(i=0; i < allOptions; i++){
+            if(option_list.children[i].textContent == correctAns){
+                option_list.children[i].setAttribute("class", "option correct");
+                option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag);
+
+                console.log("Auto selected correct answer.")
+            }
+        }
     }
+    for(i=0; i < allOptions; i++){
+        option_list.children[i].classList.add("disabled");
+    }
+    next_btn.classList.add("show");
 }
 
 //Timer in Quiz
