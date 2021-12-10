@@ -170,18 +170,44 @@ function startTimer(time){
     function timer(){
         timeCount.textContent=time;
         time--;
-        if(time < 0){
+        if(time < 9){
+            let addZero = timeCount.textContent;
+            timeCount.textContent = "0" + addZero;
+        }
+        if(time <0){
             clearInterval(counter);
-            timeText.tectContent = "Time Off";
+            timeText.textContent = "Time Off";
             const allOptions = option_list.children.length;
             let correctAns = questions [que_count].answer;
             for (i=0; i < allOptions; i++){
                 if(option_list.children[i].textContent == correctAns){
                     option_list.children[i].setAttribute("class", "option correct");
+                    option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag);
+                    console.log("Time Off: Auto selected correct answer.");
                 }
             }
+            for (i=0; i < allOptions; i++){
+                option_list.children[i].classList.add("disabled");
+            }
+            next_btn.classList.add("show");
         }
     }
+}
+
+function startTimerLine(time){
+    counterLine = setInterval(timer, 29);
+    function timer(){
+        time += 1;
+        time_line.getElementsByClassName.width = time + "px";
+        if(time > 549){
+            clearInterval(counterLine);
+        }
+    }
+}
+
+function queCounter(index){
+    let totalQueCounTag = '<span><p>' + index + '</p> of <p>' + questions.length +'</p> Questions </span>';
+    bottom_ques_counter.innerHTML = totalQueCounTag;
 }
 
 
