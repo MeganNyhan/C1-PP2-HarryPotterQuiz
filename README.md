@@ -197,11 +197,24 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
  <p> Site Owner's Stories covered: 2, 3, 5,6 </p>
         <details><summary>Navigation</summary>
         <img src="assets/images/nav-bar.png"></details>
+        <details>
+        <img src="assets/images/nav-bar.png"></details>
+        <details>
+        <img src="assets/images/nav-bar.png"></details>
+        <details>
+        <img src="assets/images/nav-bar.png"></details>
+        <details>
+        <img src="assets/images/nav-bar.png"></details>
+        <details>
+        <img src="assets/images/nav-bar.png"></details>
 
-#### Welcome Section
+#### Information/ Rules section
 <ul>
-    <li>The welcome section of the site offers a quick introduction to the company.</li>
-    <li> It also include an image of the building so the office is easily identifiable and esay to locate.</li>
+    <li>The Information/rules section offers the user 4 brief set of rules to help quide them through the quiz.</li>
+    <li> These rules include:   1. You will have only 20 seconds to answer each question.
+                                2. Once you select your answer you will have to move onto the next question.
+                                3. You will be unable to select another answer once the time runs out.
+                                4. Your overall score is dictated by the amount of correct answers you have scored..</li>
     </ul>
     <p> User Stories covered : 4</p>
     <p>Site Owner's Stories covered: 2</p>
