@@ -101,11 +101,11 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 ## Design:
 
 ### Design Choices
-<p> The company itself is a company with a wide target audience, and with this in mind I wanted to create a site that was accessible to everyone regardless of their technical ability, and ability to operate a computer. I wanted all designs to be simplistic, the navigation to be logical and seamless and for the accessibility to be a primary concern. </p>
+<p> The Harry Potter multiverse (both books and mives) itself is a multiverse with a wide target audience, and with this in mind I wanted to create a site that was accessible to everyone regardless of their technical ability, level of english, and ability to operate a computer. I wanted all designs to be simplistic, the navigation to be logical and seamless and for the accessibility to be a primary concern. </p>
 
 ### Colour
 
-  <p>The color scheme that I have used throughout the website is taken directly from the brand guidelines that were available to be as a member of the organisation. To verfiy the contrast in colours were accessible I tested them on WebAIM which they all passed as readable. </p>
+  <p>The color scheme that I have used throughout the website is taken directly from the brand guidelines that were available online. I used the following site to get the color scheme: https://www.qualitylogoproducts.com/blog/harry-potter-color-schemes/ . The colors here are used throughout the site on eachpage and interaction. </p>
 
 <details><summary>Colours and Brand Guidelines</summary>
   <img src="assets/images/mdrc-brand-guidelines.png"></details>
