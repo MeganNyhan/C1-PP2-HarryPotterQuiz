@@ -181,19 +181,20 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <hr>
 
 ## Features:
-<p>This site has three with a total of nine features.</p>
+<p>This site has two pages- four sections with a total of nine features.</p>
 
 ### Home Page
 
-#### Navigation Bar
+#### Navigation Section
 
 <ul>
-    <li>The navigation bar is very limited to what I can do, where you can go and what options there are to choose from. The nav bar is basically a start quiz button.  </li>
+    <li>The navigation bar is very limited to what I can do, where you can go and what options there are to choose from. The nav bar is basically a start quiz button. There is also a "email your results" option where you can send yourself your results to your email. </li>
     <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.</li>
-    <li>The page that the users is on currently is underlined.</li>
+    <li> Navigation throught the quiz features a next question button. The user is not able to exit the quiz before they finish it. This is made clear to the users at the information/rules section that they have to read before entering the quiz. Here there is a continue with quiz or exit quiz option.</li>
+    <LI> When the quiz is over the user is given the option of replaying the quiz or quiting it. Quiting it takes the user back to the start quiz screen, and replay takes the user to the first question of the quiz.</LI>
     </ul>
- <p> User Stories covered : 4</p>
- <p>Site Owner's Stories covered: 3, 5 </p>
+ <p> User Stories covered : 1, 4</p>
+ <p> Site Owner's Stories covered: 2, 3, 5,6 </p>
         <details><summary>Navigation</summary>
         <img src="assets/images/nav-bar.png"></details>
 
