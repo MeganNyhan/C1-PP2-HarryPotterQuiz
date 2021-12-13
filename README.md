@@ -64,36 +64,36 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <p> The target audience for this site is quite broad. The fandom itself covers a wide range of ages, cultures and ethnicity. The english is easy and should be understandable to people regardless of theit levels of english. The simple design aids users of begginers knowledge of computers and is straight-forward to navigate through. </p>
 
 ### User Requirements
-<p>As I have mentioned, we have a very large/ varied target audience, and becasue of this the site has to be simple in design and very accessible. They way I have tackled this are as follows:</p>
+<p>As I have mentioned, we have a very large/ varied target audience, and because of this the site has to be simple in design and very accessible. They way I have tackled this are as follows:</p>
 <ul>
     <li>Simple navigation that is non-ambiguous</li>
-    <li>Have skimmable text in paragraphs so that users can easily and quickly find what they are looking for.</li>
+    <li>Have skimmable text for answers and questions which are easy to understand.</li>
     <li>Simple presentation of content on the page that make logical sense. </li>
-    <li>A functional responsive wesite that allow the user to view the site regardless of screen size. </li>
-    <li>A straightforward and professional form that allows users to easily contact the business.</li>
+    <li>A functional responsive wesite that allow the user to do the quiz, regardless of screen size. </li>
+    <li>A straightforward and professional form that allows users to easily contact the business, and recieve their feedback.</li>
 </ul>
 
 ### User Stories
 
 ### First time and Recurring Stories
 <ol>
-    <li>As a user, I want to be able to view the services that I can avail of in my local community.</li>
-    <li>As a user, I want to know where I can get a avail of printing in my area.</li>
-    <li>As a user with the view of visting the office, I want to know exactly where it is located.</li>
-    <li>As a user who not tech savy, I want to be able to read, understand and navigate an easy and understandable website.</li>
-        <li>As a user who doesn't understand websites, I want to easily find a phone number for the office so I can contact them.
+    <li>As a user, I want to a quiz that is responsive to all screen types.</li>
+    <li>As a user, I want to be able to test my knowledge of the harry potter universe and know how I scored at the end of the quiz.</li>
+    <li>As a user I want to know exactly what my score was in the quiz without confusion.</li>
+    <li>As a user who not tech savy, I want the quiz to be easy to navigate through and still be able to have as good of an experience as someone who knows how to navigate online better than me.</li>
+        <li>As a user who doesn't understand websites, I want to easily know what answer I got wrong and right, and how many questions I still have to answer
     </li>
-    <li>As a user who owns a local business, I want to contact them get a quote for the price of business cards.</li>
+    <li>As a user who is new to the Harry Potter universe, I want to know what the correct answer is before even when I have answered the questions wrong.</li>
 </ol>
 
 ### Site's Owner Stories
 <ol>
-    <li>As the owner of the site, I want my potential customers to have a place where they can view the services I offer. </li>
-    <li>As the owner, I want to have an online platform that can be a hub of information for the locals in the area.</li>
+    <li>As the owner of the site, I want my potential customers to have a place where they can enjoy playing the quiz that we have built for them. </li>
+    <li>As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have.</li>
     <li>As the owner, I want a website that is accessible to anyone.</li>
-    <li>As the owner, I want a site that will encourage my customers to use the services we have to offer.</li>
+    <li>As the owner, I want a site that will follow the branding that has been established by nteh franchise.</li>
     <li> As the owner, I want a site that will have the potential to be built upon in the future.</li>
-    <li> As the owner, I want the customers to easily locate the company.</li>
+    <li> As the owner, I want the customers to easily recieve feedback through email and on the screen infront of them.</li>
 </ol>
 
 <hr>
