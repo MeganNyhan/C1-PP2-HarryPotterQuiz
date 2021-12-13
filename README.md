@@ -164,11 +164,13 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <ul>
 <li> HTML5 </li>
 <li> CSS </li>
+<li> JavaScript</li>
+<li> EmailJS </li>
 </ul>
 
 ###  Frameworks and Tools used
 <ul>
-<li> Bootstrap  </li>
+<!-- <li> Bootstrap  </li> -->
 <li> Git, GitHUb, and GitPod </li>
 <li> Balsamiq </li>
 <li> Google Fonts </li>
@@ -179,15 +181,14 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <hr>
 
 ## Features:
-<p>This site has four pages with a total of nine features.</p>
+<p>This site has three with a total of nine features.</p>
 
 ### Home Page
 
 #### Navigation Bar
 
 <ul>
-    <li>The navigation bar is featured on all four of the pages that make up the website. The navigation bar includes links to the Home Page, the Services Page, the Gallery Page and the Contact Page, and also the logo that re-directs you to the home page. The navigation bar is identical on each page to allow for easy navigation for each of the users. The design of the navigation bar is simple to limit ambiguity with the user. </li>
-    <li> The main purpose of the navigation bar in the site is to allow the user easy travel through the site without the need of a previous or back button. </li>
+    <li>The navigation bar is very limited to what I can do, where you can go and what options there are to choose from. The nav bar is basically a start quiz button.  </li>
     <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.</li>
     <li>The page that the users is on currently is underlined.</li>
     </ul>
