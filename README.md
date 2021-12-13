@@ -120,7 +120,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
   <img src="assets/images/hufflepuff.png"></details>
 
  ### Fonts
-  <p>Fonts used on the website were Open Sans Bold and Open Sans Light. Open sans bold was used for headings and open sans light was used in paragraphs.</p>
+  <p>Fonts used on the website were Arial and Benne - A sans serif with a Harry Potter vibe. Benne was used for headings and arial was used in pteh answers.</p>
 
  ### Structure
 <p>The strucutre of this website was designed to be easily navagated through and easy to learn. I made sure that each page followed a similar structure but didn't comprimise the content that each page held. The following pages are within the structure of the site:</p>
