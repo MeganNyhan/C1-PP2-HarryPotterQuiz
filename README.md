@@ -1,10 +1,10 @@
 <img src="assets/images/smartmockups_kvzln58n.jpg" alt="Mockup of my website across multiple devices">
 
-<a href="https://megannyhan.github.io/CI_PP1_MDRC/" alt="The Milfrod and District Resource Center Website" target="_blank" rel="noopener">Live Website</a>
+<a href="https://megannyhan.github.io/CI_PP1_MDRC/" alt="The Ulitmate Harry Potter Quiz Website" target="_blank" rel="noopener">Live Website</a>
 
- # PROJECT 1: THE MILFORD AND DISTRICT RESOURCE CENTRE WEBSITE
+ # PROJECT 1: THE ULTIMATE HARRY POTTER QUIZ
 
-The MDRC website is a website for the company Milford and District Resource Centre (MDRC). The company itself is a central hub of community services that are offerd the local community of Milford. The site owner's (MDRC) goal of the site is for the site to be a public source of information regarding the services the resource centre has to offer. The external's user's goal is to learn more about the services offered to them by the resource centre and to be able to ask for more information about the services through the website. I chose this company to work with as I am their in-house graphic designer and recognised their need for a website.
+The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members of the Harry Potter fandom's knowledge of the vast Harry Potter universe. The main purpose of this site is to offer the fandom of any age and technical background a chance to experience a fully interactive quiz, that offers the user feedback of how they are doing in the quiz/ how far through the quiz they are. *The quiz also utilizes email JS to send the users an automated email with the users result from the quiz*.
 <hr>
 
 ## Table of Content
@@ -42,19 +42,18 @@ The MDRC website is a website for the company Milford and District Resource Cent
 ### User Goals
 
 <ul>
-    <li>Finding what <strong>services are availbale</strong> to them (the members of the local community) in their local community.
+    <li>Allowing memebers of the Harry Potter fandom to quiz their knowledge of the Harry Potter universe.
     </li>
-    <li>Be able to read a detailed summary of services available, and <strong>when and where</strong> they are on.</li>
-    <li>Find <strong>contact information</strong> for the resource centre to learn more about services</li>
-    <li>Find the <strong>location</strong> of the centre</li>
+    <li>Be able to track how far in the quiz the users is, <strong>how many questions are answered and have yet to be answered</strong> which will aid the result they get at the end.</li>
+    <li>Be able to enter their email <strong>to recieve their results</strong> directly into their mailboxes.</li>
 </ul>
 
 ### Site Owner's Goals
 <ul>
     <li> Increase traffic to the website.</li>
-    <li> Increase profits from sales of services in the office through increased promotion of them through the website.</li>
-    <li> Increased public awarness of services offered to the public.</li>
-    <li> Offer a direct point of contact to new or current customers from the website.</li>
+    <li>Allow the user to get feedback on each question that is answered, which will hopefully increase the users user experience of the site.</li>
+    <li> Have a simply designed website that is accessibile to all users with any tech experience.</li>
+    <li> Offer a direct point of contact to new or current users from the website.</li>
     </ul>
 
 <hr>
@@ -62,7 +61,7 @@ The MDRC website is a website for the company Milford and District Resource Cent
 ### User Experience:
 
 ### Target Audience 
-<p> The target audience for this site is quite broad. The centre itself offers printing, graphic design, bookeeping, social prescribing, room rental, and support for the over 65's. On the daily, the centre would have members of the public from varied backgrounds, technical abilities and age groups. </p>
+<p> The target audience for this site is quite broad. The fandom itself covers a wide range of ages, cultures and ethnicity. The english is easy and should be understandable to people regardless of theit levels of english. The simple design aids users of begginers knowledge of computers and is straight-forward to navigate through. </p>
 
 ### User Requirements
 <p>As I have mentioned, we have a very large/ varied target audience, and becasue of this the site has to be simple in design and very accessible. They way I have tackled this are as follows:</p>
