@@ -135,7 +135,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ### Wireframes
 
-<p>The wireframes included have evolved and changed since I originally drew them up over a week ago. This is due to the limitations of my skills thus far developed and changes I have made personally to the look of the site when building it.</p>
+<p>The wireframes included have evolved and changed since I originally drew them up over a week ago. This is due to the limitations of my skills thus far, and developed and changes I have made personally to the look of the site when building it.</p>
 
 <details><summary> Home Page</summary>
 <img src="assets/images/wireframe1.png"></details>
