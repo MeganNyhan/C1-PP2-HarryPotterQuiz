@@ -139,12 +139,18 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 <details><summary> Home Page</summary>
 <img src="assets/images/wireframe1.png"></details>
+<img src="assets/images/wireframe1.png"></details>
+<img src="assets/images/wireframe1.png"></details>
+<img src="assets/images/wireframe1.png"></details>
+<img src="assets/images/wireframe1.png"></details>
+<img src="assets/images/wireframe1.png"></details>
+<img src="assets/images/wireframe1.png"></details>
+<img src="assets/images/wireframe1.png"></details>
+<img src="assets/images/wireframe1.png"></details>
+<img src="assets/images/wireframe1.png"></details>
 
-<details><summary> Services Page</summary>
+<details><summary> Results Page </summary>
 <img src="assets/images/wireframe2.png"></details>
-
-<details><summary> Gallery Page</summary>
-<img src="assets/images/wireframe3.png"></details>
 
 <details><summary>Contact Page</summary>
 <img src="assets/images/wireframe4.png"></details>
