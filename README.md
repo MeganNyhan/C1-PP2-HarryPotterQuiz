@@ -28,7 +28,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 6. [Testing](#testing)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
-    3. [JS Validation] (#js-validation)
+    3. [JS Validation] (#js-alidation)
     4. [Accessibility Test](#accessibility-test)
     5. [Performance](#performance)
     6. [Device testing](#device-testing)
