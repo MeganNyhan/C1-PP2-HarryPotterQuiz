@@ -28,15 +28,16 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 6. [Testing](#testing)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
-    3. [Accessibility Test](#accessibility-test)
-    4. [Performance](#performance)
-    5. [Device testing](#device-testing)
-    6. [Browser Compatibility](#browser-compatibility)
-    7. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
-9. [Deployment](#deployment)
-10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+    3. [JS Validation] (#js-validation)
+    4. [Accessibility Test](#accessibility-test)
+    5. [Performance](#performance)
+    6. [Device testing](#device-testing)
+    7. [Browser Compatibility](#browser-compatibility)
+    8. [Testing user stories](#testing-user-stories)
+9. [Bugs](#Bugs)
+10. [Deployment](#deployment)
+11. [Credits](#credits)
+12. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
 ### User Goals
@@ -301,6 +302,18 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 <details><summary>CSS</summary>
 <img src="assets/images/css-validation.png"></details>
+
+### JS Validation
+<p> To Validate my Java Script, I used the JSHint JS Validation Service. All Java Script passed its Validation with just a few warnings.</p><br>
+
+<details><summary>email.js</summary>
+<img src="assets/images/email.js.png"></details>
+
+<details><summary>script.js</summary>
+<img src="assets/images/script.js.png"></details>
+
+<details><summary>questions.js</summary>
+<img src="assets/images/questions.js"></details>
 
 ### Accessibility Test
 <p> To Validate my accessibility, I used the WAVE WebAIM web accessibility evaluation tool. I passed with no errors. My site was awarded the following: </p>
