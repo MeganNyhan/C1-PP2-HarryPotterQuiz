@@ -523,32 +523,8 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 ### Gallery Images:
 
 <ul>
-<li>https://www.pexels.com/photo/unrecognizable-man-surfing-on-surfboard-in-ocean-7952882/ Photo by Инна Работягина from Pexels </li>
-
-<li>https://www.pexels.com/photo/fit-woman-practicing-yoga-in-studio-7593192/ Photo by Miriam Alonso from Pexels </li>
-
-<li> https://www.pexels.com/photo/couple-sitting-on-the-wooden-floor-7648357/ Photo by Artem Podrez from Pexels</li>
-
-<li>https://www.pexels.com/photo/positive-woman-in-boxing-gloves-7991649/ Photo by Annushka Ahuja from Pexels </li>
-
-<li>https://www.pexels.com/photo/multiethnic-couple-of-travelers-with-backpacks-7968269/ Photo by George Pak from Pexels </li>
-
-<li>https://www.pexels.com/photo/a-cyclist-holding-his-bicycle-5836952/ Photo by RODNAE Productions from Pexels </li>
-
-<li>https://www.pexels.com/photo/crop-ethnic-psychologist-writing-on-clipboard-during-session-5699456/ Photo by Alex Green from Pexels</li>
-
-<li>https://www.pexels.com/photo/photo-of-man-sitting-in-front-of-people-3184299/ Photo by fauxels from Pexels </li>
-
-<li>https://www.pexels.com/photo/group-of-multiethnic-people-gathering-around-female-speaker-in-studio-3856027/Photo by Matheus Bertelli from Pexels</li>
-
-<li>https://www.pexels.com/photo/women-sitting-on-chairs-inside-a-room-3719037/ Photo by Dani Hart from Pexels</li>
-
-<li>https://www.pexels.com/photo/food-man-people-woman-6591166/ Photo by cottonbro from Pexels</li>
-
-<li>https://www.pexels.com/photo/ground-group-growth-hands-461049/ Photo by Pixabay from Pexels</li>
-
+<li>https://wallpapersafari.com/w/85olXW Photo by Wallpapper Safari </li>
 </ul>
-
 ### Source Code Used in Site
 
 <p> Due to limitations in my knowledge I googled certain code that I wanted to use for the site, see code listed below:</p>
