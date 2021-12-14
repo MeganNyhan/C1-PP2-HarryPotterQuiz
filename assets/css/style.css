@@ -20,8 +20,8 @@ body {
 
 /* Start Page */
 #start_sec{
-    font-size: 50px;
-    left:28%;
+    font-size: 40px;
+    left:32%;
     top:25%;
     text-align: center;
     color: white;
@@ -32,7 +32,7 @@ body {
 #logo{
     font-size: 25px;
     left:65%;
-    top:85%;
+    top:90%;
     text-align: center;
     color: white;
     font-family: 'Benne', serif;
