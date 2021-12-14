@@ -97,7 +97,7 @@ body {
 
 /* Start Info Box Styling */
 .info_box{
-    width: 540px;
+    max-width: 640px;
     background: #fff;
     border-radius: 5px;
     opacity: 0;
@@ -178,7 +178,7 @@ body {
 
 /* Start Quiz Box Styling */
 .quiz_box{
-    width: 550px;
+    max-width: 650px;
     background: #fff;
     border-radius: 5px;
     opacity: 0;
@@ -200,11 +200,10 @@ body {
 }
 
 .quiz_box header .title{
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 600;
     padding-top: 10px;
     font-family: 'Benne', serif;
-    text-align: justify;
 }
 
 .quiz_box header .timer{
@@ -217,7 +216,7 @@ body {
     border: 1px solid #FFDB00;
     border-radius: 5px;
     padding: 0 8px;
-    margin-left: 158px;;
+    margin-left: 70px;;
 }
 
 .quiz_box header .timer .time_text{
@@ -351,7 +350,7 @@ footer .next_btn:hover{
 /* Result Box */
 .result_box{
     background: #fff;
-    width: 550px;
+    max-width: 650px;
     height: 300px;
     padding: 25px 30px;
     border-radius: 5px;
@@ -426,7 +425,7 @@ footer .next_btn:hover{
     border: 1px solid black;
     max-width: 1000px;
     position: absolute;
-    left: 23%;
+    left: 13%;
     padding: 30px;
     width: 55%;
     background-color: white;
@@ -503,7 +502,6 @@ footer .next_btn:hover{
 /* media queries - tablet */
 
 @media screen and (max-width:828px) {
-
     /* section positions*/
     .start_btn,
     .info_box,
@@ -558,7 +556,6 @@ footer .next_btn:hover{
         clear: left;
         background-position: center;
         height: 600px;
-        padding-left: 90px;
         display: flex;
 }
 
@@ -568,11 +565,11 @@ footer .next_btn:hover{
         border: 1px solid black;
         max-width: 500px;
         position: absolute;
-        left: 35%;
         padding: 30px;
         width: 100%;
         background-color: white;
         margin-top: 80%;
+        margin-left: 70px;
 }
   
     .contact-form > h2 {
@@ -640,7 +637,7 @@ footer .next_btn:hover{
 
 /* media queries - phone */
 
-@media screen and (max-width:828px) {
+@media screen and (max-width:414px) {
 
     /* section positions*/
     .start_btn,
@@ -690,23 +687,20 @@ footer .next_btn:hover{
 
     /* contact page */
     .form-section {
-        width: 60%;
+        width: 80%;
         padding-top: 20px;
+        padding-right: 40px;
         position: absolute;
         clear: left;
         background-position: center;
-        height: 600px;
-        padding-left: 90px;
+        height: 400px;
         display: flex;
 }
 
     .contact-form {
-        margin: 0 10px 0 0;
-        color: black;
         border: 1px solid black;
         max-width: 500px;
         position: absolute;
-        left: 35%;
         padding: 30px;
         width: 100%;
         background-color: white;
@@ -763,15 +757,15 @@ footer .next_btn:hover{
 }
 
     #para1{
-        font-size: 25px;
+        font-size: 20px;
         color: white;
         position:absolute;
         padding-top: 10%;
-        width: 90%;
+        width: 80%;
 }
 
     #para1 p{
-        padding-top: 20px;
+        padding-top: 15px;
         font-size: 20px
 }
 }
