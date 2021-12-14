@@ -204,6 +204,7 @@ body {
     font-weight: 600;
     padding-top: 10px;
     font-family: 'Benne', serif;
+    text-align: justify;
 }
 
 .quiz_box header .timer{
@@ -496,3 +497,34 @@ footer .next_btn:hover{
     padding-top: 20px;
     font-size: 20px
 }
+
+/* media queries - tablet */
+
+@media screen and (max-width:828px) {
+
+    /* section positions*/
+    .start_btn,
+    .info_box,
+    .quiz_box,
+    .result_box{
+        position: absolute;
+        top:50%;
+        left:50%;
+        transform: translate(-50%, -50%);
+        box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2),
+                    0px 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: all 0.3s ease;
+    }
+
+    /* Quiz Heading */
+    #start_sec{
+        font-size: 40px;
+        left:20%;
+        top:25%;
+        text-align: center;
+        color: white;
+        font-family: 'Benne', serif;
+        position: absolute;
+    }
+}
+
