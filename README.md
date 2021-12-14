@@ -88,7 +88,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ### Site's Owner Stories
 <ol>
-    <li>As the owner of the site, I want my potential customers to have a place where they can enjoy playing the quiz that we have built for them. </li>
+    <li>As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users. </li>
     <li>As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have.</li>
     <li>As the owner, I want a website that is accessible to anyone.</li>
     <li>As the owner, I want a site that will follow the branding that has been established by nteh franchise.</li>
