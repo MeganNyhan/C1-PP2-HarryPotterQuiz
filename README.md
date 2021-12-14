@@ -310,15 +310,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <img src="assets/images/questions.js.png"></details>
 
 ### Accessibility Test
-<p> To Validate my accessibility, I used the WAVE WebAIM web accessibility evaluation tool. I passed with no errors. My site was awarded the following: </p>
-<details><summary>Home page</summary>
-<img src="assets/images/home-page-wave.png"></details>
-<details><summary>Services page</summary> 
-<img src="assets/images/services-page-wave.png"></details>
-<details><summary>Gallery page</summary>
-<img src="assets/images/gallery-page-wave.png"></details>
-<details><summary>Contact page</summary>
-<img src="assets/images/contact-page-wave.png"></details>
+<p> To Validate my accessibility, I used the WAVE WebAIM web accessibility evaluation tool. I passed with no errors. My site was awarded the following: https://wave.webaim.org/report#/https://megannyhan.github.io/C1_PP2_HarryPotterQuiz/ </p>
+<details><summary>Quiz</summary>
+<img src="assets/images/start-page.png"></details>
+
 
 ## Performance
 <p> To determine my sites performance, I used the Ligthouse web accessibility develepment tool. My site was awarded the following: </p>
@@ -529,13 +524,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 <p> Due to limitations in my knowledge I googled certain code that I wanted to use for the site, see code listed below:</p>
 <ul>
-<li> The meet the team code (both HTML and CSS) was not taken directly but inspired by the following site: https://www.w3schools.com/howto/ howto_css_images_side_by_side.asp </li>
-
-<li> The map code was taken from the following code: https://stackoverflow.com/questions/5756440/aligning-google-map-with-text </li>
-
-<li> Code to help with the contact form was taken from bootstrap: https://getbootstrap.com/docs/5.1/forms/form-control/ </li>
-
-<li>I also referenced the Love-Running project to help with the grid for the Gallery Section, the social links from the footer and the contact form. It was not copied and pasted directly but it was used for help so I thought I would mention it.</li></ul>
+<li> Code to help with the contact form was taken from bootstrap: https://getbootstrap.com/docs/5.1/forms/form-control/ 
+</li>
+<li> I also used a youtube video to help further my understanding of JavaScript and aid me in the making of my quiz: https://www.youtube.com/watch?v=WUBhpSRS_fk&t=1732s . It was not copied and pasted directly but it was used for help so I thought I would mention it. </li>
+</ul>
 <hr>
 
 ## Acknowledgements:
@@ -543,7 +535,6 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <ul>
 <li> I would like to thank Mo Shami - my mentor - for his feedback and guidence whilst creating the project.</li>
 <li> I would like to thank those on the code institute slack channel for help with any issues I had.</li>
-<li> I would like to thank my manager who helped me with Site Owner's stories to help guide the creation and purpose of the site.</li>
 <li> I also want to say that I did intend on making a error 404 page but ran out of time.</li>
 </ul>
 </p>
