@@ -15,18 +15,18 @@
 <body>
         <!---Love Running Form-->                    
         <section class="form-section">
-            <form class="contact-form" method="POST" action="https://formdump.codeinstitute.net/">
+            <form class="contact-form">
                 <h2> Fill out the form and tell us what you think of the quiz!</h2>
-                <label for="fname">First Name</label>
-                <input id="fname" class="text-input" type="text" name="first_name" required />
-                <label for="lname">Last Name</label>
-                <input id="lname" class="text-input" type="text"  name="last_name" required />
+                <label for="toName">First Name</label>
+                <input id="toName" class="text-input" type="text" name="first_name" required />
+                <label for="fromName">Last Name</label>
+                <input id="fromName" class="text-input" type="text"  name="last_name" required />
                 <label for="email">Email Address</label>
                 <input id="email" class="text-input" type="email" name="email_address" required/>
-                <label for="message">Message</label>
-                <input id="message" class="message-input" type="text" name="message" required/>
+                <label for="msg">Message</label>
+                <input id="msg" class="message-input" type="text" name="message" required/>
                 
-                <input class="submit-button"  type="submit" value="Submit"/>
+                <input class="submit-button"  type="submit" value="Submit" onclick="sendMail()"/>
             </form>
      </section> 
 
@@ -41,7 +41,7 @@
         <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
         <script type="text/javascript">
         (function() {
-        emailjs.init("user_DBFlhfjEt0f11azTfR9I8");
+            emailjs.init("user_DBFlhfjEt0f11azTfR9I8");
         })();
 </script>
 </body>
