@@ -317,15 +317,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ## Performance
 <p> To determine my sites performance, I used the Ligthouse web accessibility develepment tool. My site was awarded the following: </p>
-<details><summary>Home page</summary>
-<img src="assets/images/lighthouse-home-page.png"></details>
-<details><summary>Services page</summary> 
-<img src="assets/images/lighthouse-services-page.png"></details>
-<details><summary>Gallery page</summary>
-<p>My Gallery page has poor performance because of the amount of images that are embeded into the gallery grid.</p>
-<img src="assets/images/lighthouse-gallery-page.png"></details>
-<details><summary>Contact page</summary>
-<img src="assets/images/lighthouse-contact-page.png"></details>
+<details><summary>Website Test</summary>
+<img src="assets/images/website.png"></details>
+<details><summary>Mobile Test</summary> 
+<img src="assets/images/mobile.png"></details>
 
 ## Device Testing
 <p>The site was tested on the following decives using the responsive tool in Google Chromes Developer tools:</p>
