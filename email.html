@@ -13,14 +13,28 @@
     <link rel="icon" href="assets/images/android-chrome-512x512.png" type="image/png"> 
 </head>
 <body>
-    <img id="background" src="assets/images/hp-quiz-background.jpeg">
-    <input type="text" id="toName" placeholder="Enter to Name">
-    <input type="text" id="fromName" placeholder="Enter from Name">
-    <input type="text" id="Message" placeholder="Enter from Name">
+        <!---Love Running Form-->                    
+        <section class="form-section">
+            <form class="contact-form" method="POST" action="https://formdump.codeinstitute.net/">
+                <h2>Contact us for more information</h2>
+                <label for="fname"  placeholder="Enter to Name">First Name</label>
+                <input id="fname" class="text-input" type="text" name="first_name" required />
+                <label for="lname">Last Name</label>
+                <input id="lname" class="text-input" type="text"  name="last_name" required />
+                <label for="email">Email Address</label>
+                <input id="email" class="text-input" type="email" name="email_address" required/>
+                <label for="phone-number">Phone Number</label>
+                <input id="phone-number" class="text-input" type="number" name="phone_number" required/>
+                <label for="message">Message</label>
+                <input id="message" class="message-input" type="text" name="message" required/>
+                <input class="submit-button"  type="submit" value="Submit"/>
+            </form>
+     </section> 
+     <img id="background" src="assets/images/hp-quiz-background.jpeg">
     <a href="index.html" aria-label="Takes you to the Contact Page.">  
         <h1 id="logo_contact" >Return To The Quiz</h1> 
         </a> 
-
-        <script src="assets/js/email.js"></script>
+    <script src="assets/js/email.js"></script>
 </body>
 </html>
+
