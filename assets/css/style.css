@@ -426,42 +426,56 @@ footer .next_btn:hover{
 
 .contact-form {
     margin: 0 10px 0 0;
-    color: white;
-    border: 1px solid white;
+    background-color: white;
+    box-shadow: 1px black;
     max-width: 500px;
     position: absolute;
     left: 10%;
+    top: 25%;
     padding: 30px;
-    color:#fff;
+    color:black;
+}
+
+.contact-form {
+    background-color: white;
+    opacity: 80%;
 }
 
 .contact-form > h2 {
-    color:white;
+    font-family: 'Benne', serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    color:black;
+}
+
+.contact-form > h3 {
+    font-family: 'arial';
+    font-weight: 600;
+    font-size: 16px;
     padding-bottom: 20px;
     text-transform: uppercase;
-    color:#fff;
+    color:black;
 }
 
 .text-input {
     background: transparent;
-    color: white;
+    color: black;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 1px solid white;
+    border: 1px solid black;
     border-radius: 2px;
-    color:#fff;
 }
 
 .message-input{
     background: transparent;
-    color: white;
+    color: black;
     width: 100%;
     height: 105px;
     margin: 5px 0 20px 0;
-    border: 1px solid white;
+    border: 1px solid black;
     border-radius: 2px;
-    color:#fff;
+    color:black;
 }
 
 .text-input:hover {
@@ -469,12 +483,33 @@ footer .next_btn:hover{
 }
 
 .submit-button {
-    margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px 15px 32px;
-    text-align: center;
-    font-size: 100%;
-    background-color: #fdd008;
-    color: black;
-    display: block;
+    margin: 0 10px;
+    margin-left: 75%;
+    height: 40px;
+    width: 100px;
+    outline: none;
+    border: 1px solid #740001;
+    border-radius: 5px;
+    background-color: white;
+    font-size:20px;
+    opacity: 100%;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#para1{
+    font-size: 25px;
+    color: white;
+    position:absolute;
+    float: left;
+    padding-left: 55%;
+    margin-left: 100px;
+    padding-top: 20%;
+    width: 90%;
+}
+
+#para1 p{
+    padding-top: 20px;
+    font-size: 20px
 }
