@@ -176,6 +176,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <li> Google Fonts </li>
 <li> Font Awesome </li>
 <li> Google Developer Tools (for responsive site)</li>
+<li> EmailJS </li>
 </ul>
 
 <hr>
