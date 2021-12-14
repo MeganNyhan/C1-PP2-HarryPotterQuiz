@@ -171,7 +171,6 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ###  Frameworks and Tools used
 <ul>
-<!-- <li> Bootstrap  </li> -->
 <li> Git, GitHUb, and GitPod </li>
 <li> Balsamiq </li>
 <li> Google Fonts </li>
