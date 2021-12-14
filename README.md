@@ -313,7 +313,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <img src="assets/images/script.js.png"></details>
 
 <details><summary>questions.js</summary>
-<img src="assets/images/questions.js"></details>
+<img src="assets/images/questions.js.png"></details>
 
 ### Accessibility Test
 <p> To Validate my accessibility, I used the WAVE WebAIM web accessibility evaluation tool. I passed with no errors. My site was awarded the following: </p>
