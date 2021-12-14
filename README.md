@@ -298,13 +298,13 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <img src="assets/images/contact-val.png"></details>
 
  ### CSS Validation
-<p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p><br>
+<p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
 
 <details><summary>CSS</summary>
 <img src="assets/images/css-validation.png"></details>
 
 ### JS Validation
-<p> To Validate my Java Script, I used the JSHint JS Validation Service. All Java Script passed its Validation with just a few warnings.</p><br>
+<p> To Validate my Java Script, I used the JSHint JS Validation Service. All Java Script passed its Validation with just a few warnings.</p>
 
 <details><summary>email.js</summary>
 <img src="assets/images/email.js.png"></details>
