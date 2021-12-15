@@ -1,4 +1,4 @@
-<img src="assets/images/smartmockups_kvzln58n.jpg" alt="Mockup of my website across multiple devices">
+<img src="assets/images/smartmockups_kx7bcyaf.jpg" alt="Mockup of my website across multiple devices">
 
 <a href="https://megannyhan.github.io/C1_PP2_HarryPotterQuiz/" alt="The Ulitmate Harry Potter Quiz Website" target="_blank" rel="noopener">Live Website</a>
 
@@ -127,10 +127,11 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <p>The strucutre of this website was designed to be easily navagated through and easy to learn. I made sure that each page followed a similar structure but didn't comprimise the content that each page held. The following pages are within the structure of the site:</p>
 
 <ul>
-<li> A home Page = Basic information about the site, with an image of the building and a meet the team section.</li>
-<li> A Services page = The services page offers an overview of the services offered by the resource center. </li>
-<li> A gallery page = Offers the user a chance to see possible familiar faces taking part in local activites/ meetings.    This page aims to encourage the user to want to partake in the activites/ events themselves.</li>
-<li> A Contact Page = Gives the user contact information and a google maps view of where the building is. There is also a contact form for a user to use to contact the comapny.</li>
+<li> A home Page = Start button for the quiz and a contact button for users to access a contact form.</li>
+<li> A Contact page = The contact page allows users to send an email to the site owner to give feedback on the site. </li>
+<li> The quiz Section = The quiz section is where the questions and answers are. The user has 4 answer options to choose from and depending on the answer (if correct or incorrect) the user an icon with the correct answer will show. If your answer is wrong an x will appear beside it. Also here, the user is able to dictate what question their on by the question counter at the bottom of the section. There is a timer at the top of the section that will count down from 20 seconds, and if it runs out it will disable the quiz and show the correct answer.</li>
+<li> The Results Page = Shows the user their score out of ten. It will also give the user the option of restarting the quiz or quiting it - taking them back to the start/home page.</li>
+<li> Also in the quiz there is an info section that goes over some rules that the user has to follow when going through the quiz.</li>
 
 <hr>
 
