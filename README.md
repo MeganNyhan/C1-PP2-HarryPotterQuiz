@@ -206,65 +206,63 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
                                 4. Your overall score is dictated by the amount of correct answers you have scored..</li>
     </ul>
     <p> User Stories covered : 4</p>
-    <p>Site Owner's Stories covered: 2</p>
-        <details><summary>Welcome Section</summary>
-        <img src="assets/images/welcome-section.png"></details>
+    <p>Site Owner's Stories covered: 2, 3</p>
+        <details><summary>Information/ Rules Section</summary>
+        <img src="assets/images/rules-page.png"></details>
 
-#### Meet the Team Section
+#### Correct Answer, and Incorrect Answer
 <ul>
      <li>
-     Also featured on the main page is a meet the team section which shows the user who they can expect to see when they visit the office.</li>
-     <li> The meet the team section also goes into detail of what each person work as and what they can help you with.
+     As a feature of the Questions and Answers section of the quiz, when an answer is answered teh User will get direct feedback from the quiz to let them know if they have answered correctly or not. If the answer is wrong the user will be told and the correct answer will be revealed with a tick beside it in green.</li>
+     <li> The main purpose of this is to offer the User directed feedback from the quiz. 
      </li>
-     <li> The main purpose of this section is to offer a freinsly introduction to the people you can expect to see in the office if you decide to go in.</li></ul>
-     <p> User Stories covered : 4, 6</p>
-     <p>Site Owner's Stories covered: 5, 5 </p>
-        <details><summary>Meet the Team</summary>
-        <img src="assets/images/meet-the-team-feature.png"></details>
+     </ul>
+     <p> User Stories covered : 3, 4, 5, 6</p>
+     <p>Site Owner's Stories covered: 6 </p>
+        <details><summary>Questions and Answers</summary>
+        <img src="assets/images/Q&A.png"></details>
 
-#### Footer
+#### Timer in Q&A Section
 <ul>
-     <li> The footer allows the user to contact and view the social media pages that the organisation have.</li>
-     <li> The social media links comprise of the respective social network icons for easy accessibility.</li>
-     <li> The reason the design is so simple is that I didn't want it to be too cluttered with information. I felt less is more.</li></ul>
-     <p> User Stories covered : 4, 6,</p>
-     <p> Site Owner's Stories covered: 2, 3</p>
+     <li> The timer gives the user a time limit to answer the quiz. It counts down from 20 to give the user 20 seconds to answer.</li>
+     <li> The timer, when it runs out, will stop the user from answering the quiz and will show them the correct answer that they should of chosen.</li>
+     </ul>
+     <p> User Stories covered : 4,</p>
+     <p> Site Owner's Stories covered: 1, 3, 6</p>
         <details><summary>Footer</summary>
-        <img src="assets/images/new-footer.png"></details>
+        <img src="assets/images/Q&A.png"></details>
 
-### Services Page
-#### Services Grid and Contact us for more Button
+### Question Counter
 <ul>
-    <li> The services page is very plane. It features a grid style list of services that the resource center provides with a button to redirect the user to the contact page in a new tab.</li>
-    <li> The purpose of adding the contact button is so that users will be redired to the contact page to encourage them to contact the company about the services they are interested in. This covers a site owner story too.</li>
+    <li> The question counter at the bottom of the page offers the user an easy way of keeping track on the amount of questions they have answered and how many they have left to answer. It works similar to a progress bar.</li>
     </ul>
-    <p> User Stories covered : 1, 2, 4, 6</p>
-    <p>Site Owner's Stories covered: 1, 2, 3, 4</p> 
+    <p> User Stories covered : 3, 5</p>
+    <p>Site Owner's Stories covered: 1, 3, 6</p> 
         <details><summary>Services grid and Contact Button</summary>
         <img src="assets/images/services-grid.png"></details>
 
-### Gallery Page
+### Result Page
 
-#### Gallery grid
 <ul>
-    <li>The gallery page features a grid of photos taken of the local community.</li>
-    <li> The main purpose of the gallery is to encourage users to get active in the community and be aware of the events that are taking place.</li></ul>
+    <li>The Result Page is where the users scores are displayed when they have completed the quiz.</li>
+    <li> The main purpose of this section is to display the score the user earned and also to give them the option of restarting the quiz or quiting it altogether and returning to the start screen.</li>
+    </ul>
     <p> User Stories covered : 3, 4</p>
     <p>Site Owner's Stories covered: 2, 4</p>
         <details><summary>Gallery Grid</summary>
-        <img src="assets/images/gallery-features.png"></details>
+        <img src="assets/images/result.png"></details>
 
 ### Contact Page
 
-#### Google Maps Feature and Contact Form
+#### Contact Form
 <ul>
-    <li>The contact page offers the user a chance to view the location of the office in the Milford Area on Google Maps. </li>
-    <li> The contact form offers the users to message the office to ask about a certain service, or inquire about general queries easily and directly.</li>
-    <li> Another purpose of th contact page and it's elements is to encourage the user to contact the office to inquire about the services offered.</li></ul>
+    <li>The contact page offers the user a chance to give the company realtime feedback on the quiz. </li>
+    <li> The contact form is linked to emailJS and will submit the email to the company once the submit button is pressed.</li>
+    </ul>
     <p> User Stories covered :2, 3, 5, 6</p>
     <p>Site Owner's Stories covered: 2, 4, 6</p> 
-        <details><summary>Contact: Google Maps and form</summary>
-        <img src="assets/images/google-maps&-form.png"></details>
+        <details><summary>Contact form</summary>
+        <img src="assets/images/contact_form.png"></details>
 <hr>
 
  ## Testing:
