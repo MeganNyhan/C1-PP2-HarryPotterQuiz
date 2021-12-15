@@ -2,7 +2,7 @@
 
 <a href="https://megannyhan.github.io/C1_PP2_HarryPotterQuiz/" alt="The Ulitmate Harry Potter Quiz Website" target="_blank" rel="noopener">Live Website</a>
 
- # PROJECT 1: THE ULTIMATE HARRY POTTER QUIZ
+ # PROJECT 2: THE ULTIMATE HARRY POTTER QUIZ
 
 The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members of the Harry Potter fandom's knowledge of the vast Harry Potter universe. The main purpose of this site is to offer the fandom of any age and technical background a chance to experience a fully interactive quiz, that offers the user feedback of how they are doing in the quiz/ how far through the quiz they are. *The quiz also utilizes email JS to send the users an automated email with the users result from the quiz*.
 <hr>
@@ -182,12 +182,12 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 ## Features:
 <p>This site has two pages- four sections with a total of nine features.</p>
 
-### Home Page
+### Home/Start  Page
 
-#### Navigation Section
+#### Start Button
 
 <ul>
-    <li>The navigation bar is very limited to what I can do, where you can go and what options there are to choose from. The nav bar is basically a start quiz button. There is also a "email your results" option where you can send yourself your results to your email. </li>
+    <li>The navigation bar is very limited to what the user can do, where you can go and what options there are to choose from. The nav bar is basically a start quiz button. There is also a "email your results" option where you can send yourself your results to your email. </li>
     <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.</li>
     <li> Navigation throught the quiz features a next question button. The user is not able to exit the quiz before they finish it. This is made clear to the users at the information/rules section that they have to read before entering the quiz. Here there is a continue with quiz or exit quiz option.</li>
     <LI> When the quiz is over the user is given the option of replaying the quiz or quiting it. Quiting it takes the user back to the start quiz screen, and replay takes the user to the first question of the quiz.</LI>
@@ -195,18 +195,8 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
  <p> User Stories covered : 1, 4</p>
  <p> Site Owner's Stories covered: 2, 3, 5,6 </p>
         <details><summary>Navigation</summary>
-        <img src="assets/images/nav-bar.png"></details>
-        <details>
-        <img src="assets/images/nav-bar.png"></details>
-        <details>
-        <img src="assets/images/nav-bar.png"></details>
-        <details>
-        <img src="assets/images/nav-bar.png"></details>
-        <details>
-        <img src="assets/images/nav-bar.png"></details>
-        <details>
-        <img src="assets/images/nav-bar.png"></details>
-
+        <img src="assets/images/home-page.png"></details>
+        
 #### Information/ Rules section
 <ul>
     <li>The Information/rules section offers the user 4 brief set of rules to help quide them through the quiz.</li>
