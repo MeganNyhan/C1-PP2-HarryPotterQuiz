@@ -124,7 +124,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
   <p>Fonts used on the website were Arial and Benne - A sans serif with a Harry Potter vibe. Benne was used for headings and arial was used in pteh answers.</p>
 
  ### Structure
-<p>The strucutre of this website was designed to be easily navagated through and easy to learn. I made sure that each page followed a similar structure but didn't comprimise the content that each page held. The following pages are within the structure of the site:</p>
+<p>The structure of this website was designed to be easily navagated through and easy to learn. I made sure that each page followed a similar structure but didn't comprimise the content that each page held. The following sections are within the structure of the site:</p>
 
 <ul>
 <li> A home Page = Start button for the quiz and a contact button for users to access a contact form.</li>
@@ -139,23 +139,20 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 <p>The wireframes included have evolved and changed since I originally drew them up over a week ago. This is due to the limitations of my skills thus far, and developed and changes I have made personally to the look of the site when building it.</p>
 
-<details><summary> Home Page</summary>
-<img src="assets/images/wireframe1.png"></details>
-<img src="assets/images/wireframe1.png"></details>
-<img src="assets/images/wireframe1.png"></details>
-<img src="assets/images/wireframe1.png"></details>
-<img src="assets/images/wireframe1.png"></details>
-<img src="assets/images/wireframe1.png"></details>
-<img src="assets/images/wireframe1.png"></details>
-<img src="assets/images/wireframe1.png"></details>
-<img src="assets/images/wireframe1.png"></details>
-<img src="assets/images/wireframe1.png"></details>
+<details><summary> Home/Start Page</summary>
+<img src="assets/images/wireframe1-1.png"></details>
 
-<details><summary> Results Page </summary>
-<img src="assets/images/wireframe2.png"></details>
+<details><summary> Rules Section</summary>
+<img src="assets/images/wireframe-2.png"></details>
 
-<details><summary>Contact Page</summary>
-<img src="assets/images/wireframe4.png"></details>
+<details><summary> Questions Section </summary>
+<img src="assets/images/wireframe-1.png"></details>
+
+<details><summary>Result Section</summary>
+<img src="assets/images/wireframe-3.png"></details>
+
+<details><summary>Contact Section</summary>
+<img src="assets/images/wireframe-4.png"></details>
 
 <hr>
 
