@@ -453,9 +453,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-| Website Fonts don't work in Firefox and safari| Choose back-up font for other browsers |
-| Website moves to the left on larger monitors | Add another media quiery for larger than laptop screens |
-| The map moves to the left on mobile repository | change the width of the map in the html to fit desktop and tablet then mobile again and push footer down|
+| When the user selects their answer, the icons come up. But when you select the other options on the same screen icons come up for the other options too| Put a non-repeat setting within the function optionSelected|
 <hr>
 
 ## Deployment:
