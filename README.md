@@ -292,7 +292,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <img src="docs/javascript-validation/emailjs.png"></details>
 
 <details><summary>script.js</summary>
-<img src="docs/javascript-validation/quiz.js.png"></details>
+<img src="docs/javascript-validation/quiz.png"></details>
 
 <details><summary>questions.js</summary>
 <img src="docs/javascript-validation/questions.js.png"></details>
