@@ -210,7 +210,3 @@ function queCounter(index){
     bottom_ques_counter.innerHTML = totalQueCounTag;
 }
 
-
-
-
-

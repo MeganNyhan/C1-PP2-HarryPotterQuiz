@@ -1,6 +1,7 @@
 /* Import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Benne&display=swap');
 
+
 /* Responsive backgroun image */
 #responsive{
     width: 100%;
@@ -22,8 +23,8 @@ body {
 /* Start Page */
 #start_sec{
     font-size: 70px;
-    left:18%;
-    top:25%;
+    left:20%;
+    top:20%;
     text-align: center;
     color: white;
     font-family: 'Benne', serif;
