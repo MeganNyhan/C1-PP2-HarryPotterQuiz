@@ -829,4 +829,5 @@ footer .next_btn:hover{
     opacity: 1;
     pointer-events: none;
     transform:translate(-50%, -50%) scale(1.2);
+    display: flex;
 }
