@@ -35,9 +35,12 @@ body {
     left:65%;
     top:90%;
     text-align: center;
-    color: white;
+    color: black;
     font-family: 'Benne', serif;
     position: absolute;
+    background-color: white;
+    padding: 10px 5px 5px 5px;
+    border-radius: 2.5px;
 }
 
 #logo_contact{
@@ -45,9 +48,12 @@ body {
     left:80%;
     top:85%;
     text-align: center;
-    color: white;
+    color: black;
     font-family: 'Benne', serif;
     position: absolute;
+    background-color: white;
+    padding: 10px 5px 5px 5px;
+    border-radius: 2.5px;
 }    
 
 .start_btn,
@@ -548,9 +554,12 @@ footer .next_btn:hover{
         left:50%;
         top:95%;
         text-align: center;
-        color: white;;
+        color: black;
         font-family: 'Benne', serif;
         position: absolute;
+        background-color: white;
+        padding: 10px 5px 5px 5px;
+        border-radius: 2.5px;
     }
     
     #logo_contact{
@@ -561,6 +570,9 @@ footer .next_btn:hover{
         color: black;
         font-family: 'Benne', serif;
         position: absolute;
+        background-color: white;
+        padding: 10px 5px 5px 5px;
+        border-radius: 2.5px;
     }   
 
     /* contact page */
@@ -694,11 +706,14 @@ footer .next_btn:hover{
         font-size: 15px;
         top:95%;
         text-align: center;
-        color: white;
+        color: black;
         font-family: 'Benne', serif;
         position: absolute;
         margin-right: 20px;
         font-weight: 500;
+        background-color: white;
+        padding: 10px 5px 5px 5px;
+        border-radius: 2.5px;
     }
     
     #logo_contact{
@@ -707,10 +722,13 @@ footer .next_btn:hover{
         top: 680px;
         font-weight: 800;
         text-align: center;
-        color: white;
+        color: black;
         font-family: 'Benne', serif;
         position: absolute;
         padding-bottom: 10px;
+        background-color: white;
+        padding: 10px 5px 5px 5px;
+        border-radius: 2.5px;
     }   
 
     /* contact page */
