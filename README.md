@@ -330,8 +330,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 | Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button |    Works as expected |
 | Nav- Locate services and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
 <details><summary>User Testing 1</summary>
-<img src="assets/images/user-story-1.jpg">
-<img src="assets/images/user-story-2.jpg"></details>
+<img src="docs/mock-up/mock-up.png"></details>
 <hr>
 
     2."As a user, I want to know where I can get a avail of printing in my area."
