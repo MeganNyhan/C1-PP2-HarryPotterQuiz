@@ -1,4 +1,4 @@
-<img src="assets/images/smartmockups_kx7bcyaf.jpg" alt="Mockup of my website across multiple devices">
+<img src="docs/mock-up/mock-up.png" alt="Mockup of my website across multiple devices">
 
 <a href="https://megannyhan.github.io/C1_PP2_HarryPotterQuiz/" alt="The Ulitmate Harry Potter Quiz Website" target="_blank" rel="noopener">Live Website</a>
 
