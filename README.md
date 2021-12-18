@@ -40,13 +40,17 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 12. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
-### User Goals & Site Owner's Goals
+### User Goals
 
 <ul>
     <li>Allowing memebers of the Harry Potter fandom to quiz their knowledge of the Harry Potter universe.
     </li>
     <li>Be able to track how far in the quiz the users is, <strong>how many questions are answered and have yet to be answered</strong> which will aid the result they get at the end.</li>
     <li>Be able to enter their email <strong>to recieve their results</strong> directly into their mailboxes.</li>
+    </ul>
+
+### Site Owner's Goals
+   <ul>
    <li> Increase traffic to the website.</li>
     <li>Allow the user to get feedback on each question that is answered, which will hopefully increase the users user experience of the site.</li>
     <li> Have a simply designed website that is accessibile to all users with any tech experience.</li>
@@ -72,7 +76,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ### User Stories
 
-### First time and Recurring Stories
+### First time and Recurring Stories and Site's Owner Stories
 <ol>
     <li>As a user, I want to a quiz that is responsive to all screen types.</li>
     <li>As a user, I want to be able to test my knowledge of the harry potter universe and know how I scored at the end of the quiz.</li>
@@ -81,10 +85,6 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
         <li>As a user who doesn't understand websites, I want to easily know what answer I got wrong and right, and how many questions I still have to answer
     </li>
     <li>As a user who is new to the Harry Potter universe, I want to know what the correct answer is before even when I have answered the questions wrong.</li>
-</ol>
-
-### Site's Owner Stories
-<ol>
     <li>As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users. </li>
     <li>As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have.</li>
     <li>As the owner, I want a website that is accessible to anyone.</li>
