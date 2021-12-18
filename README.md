@@ -265,9 +265,15 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
         <img src="docs/features/contact-form.png"></details>
 <hr>
 
- ## Testing:
+### Working with EmailJS
 
- ### HTML Validation
+<p> EmailJS offered me to create an interactive contact form that allowed the user to directly contact the company to give feedback about the quiz.</p>
+<ul>
+<li>Within the send email function I directly linked the function to send the email template I created on the Email JS website to send the email with what the user has typed into the forms input fields. </li>
+</ul>
+
+## Testing:
+### HTML Validation
 <p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
 
 <details><summary>index.html</summary>
@@ -303,9 +309,9 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 ## Performance
 <p> To determine my sites performance, I used the Ligthouse web accessibility develepment tool. My site was awarded the following: </p>
 <details><summary>Website Test</summary>
-<img src="docs/lighthouse-report/website.png"></details>
+<img src="docs/lightouse-report/desktop.png"></details>
 <details><summary>Mobile Test</summary> 
-<img src="docs/lighthouse-report/mobile.png"></details>
+<img src="docs/lightouse-report/mobile.png"></details>
 
 ## Device Testing
 <p>The site was tested on the following decives using the responsive tool in Google Chromes Developer tools:</p>
