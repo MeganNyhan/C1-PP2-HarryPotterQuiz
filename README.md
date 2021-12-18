@@ -454,6 +454,8 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 | **Bug** | **Fix** |
 | ----------- | ----------- |
 | When the user selects their answer, the icons come up. But when you select the other options on the same screen icons come up for the other options too| Put a non-repeat setting within the function optionSelected|
+<details><summary>Bugs</summary>
+<img src="docs/bugs/bugs.png"></details>
 <hr>
 
 ## Deployment:
