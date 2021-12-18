@@ -292,10 +292,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <p> To Validate my Java Script, I used the JSHint JS Validation Service. All Java Script passed its Validation with just a few warnings.</p>
 
 <details><summary>email.js</summary>
-<img src="docs/javascript-validation/email.js.png"></details>
+<img src="docs/javascript-validation/emailjs.png"></details>
 
 <details><summary>script.js</summary>
-<img src="docs/javascript-validation/script.js.png"></details>
+<img src="docs/javascript-validation/quiz.js.png"></details>
 
 <details><summary>questions.js</summary>
 <img src="docs/javascript-validation/questions.js.png"></details>
