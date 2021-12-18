@@ -1,6 +1,7 @@
 /* Import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Benne&display=swap');
 
+/* Responsive backgroun image */
 #responsive{
     width: 100%;
     height: auto;
@@ -95,7 +96,7 @@ body {
     color:white;
 }
 
-/* Start Info Box Styling */
+/* Info Box Styling */
 .info_box{
     max-width: 640px;
     background: #fff;
@@ -133,6 +134,7 @@ body {
     color: #740001;
 }
 
+/*Info box buttons*/
 .info_box .buttons{
     height: 60px;
     display: flex;
@@ -205,7 +207,7 @@ body {
     padding-top: 10px;
     font-family: 'Benne', serif;
 }
-
+/* Quiz Box timer */
 .quiz_box header .timer{
     display:flex;
     align-items: center;
@@ -254,6 +256,7 @@ body {
     display: block;
 }
 
+/* Answer section */
 section .option_list .option{
     background: #fff;
     border: 1px solid #740001;
@@ -316,7 +319,7 @@ section .option_list .option:hover{
 }
 
 
-/* Footer */
+/* Footer question counter */
 footer .total_que span p:first-child {
     padding-left:30px;
 }
@@ -413,8 +416,8 @@ footer .next_btn:hover{
     border: 1px solid #740001;
 }  
 
-/*---- Love running project code -----*/
-/* ---- Form ----*/ 
+
+/* ---- Contact Form (taken from previous project) ----*/ 
 .form-section {
     width: 100%;
     padding-top: 80px;
