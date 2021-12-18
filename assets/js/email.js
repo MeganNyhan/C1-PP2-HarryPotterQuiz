@@ -1,3 +1,9 @@
+/*
+* This function sends an email to the user from the site, through emailJS.
+* calls the function sendMail()
+* @param {object, integer, string} - found in the html file.
+*/
+
 function sendMail(params){
   var tempParams = {
     from_name: document.getElementById("fromName").value,
