@@ -26,12 +26,20 @@ start_btn.onclick = ()=>{
     info_box.classList.add("activeInfo");
 }
 
-// When "Exit Quiz" button clicked
+/*
+* This function calles the info box to be displayed and active when the exit button is clicked.
+* It does this by pulling the data from the css file.
+* @param {object} activeInfo
+*/
 exit_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); 
 }
 
-// When "Continue Quiz" button clicked
+/*
+* This function calles the quiz box to be displayed and active when the continue button is clicked.
+* It does this by pulling the data from the css file, similar to the start and exit button.
+* @param {object, integer} activeInfo and activeQuiz
+*/
 continue_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); 
     quiz_box.classList.add("activeQuiz");
@@ -52,7 +60,11 @@ let widthValue = 0;
 const restart_quiz = result_box.querySelector(".buttons .restart");
 const quit_quiz = result_box.querySelector(".buttons .quit");
 
-// When "restart quiz" button clicked:
+/*
+* This function calles the quiz box to be displayed and restart when the restart button is clicked.
+* It does this by pulling the data from the css file, similar to the start and exit button.
+* @param {object, integer, string} activeInfo, activeResult 
+*/
 restart_quiz.onclick = ()=> {
     quiz_box.classList.add("activeQuiz");
     result_box.classList.remove("activeResult");
@@ -71,7 +83,11 @@ restart_quiz.onclick = ()=> {
     next_btn.classList.remove("show");
 }
 
-//When "Quit Quiz" button is pressed
+/*
+* This function calles the start/ home page to be displayed and active when the quit button is clicked.
+* It does this by pulling the data from the css file, similar to the start and exit button.
+* @param {object, integer, string}
+*/
 quit_quiz.onclick = ()=>{
     window.location.reload();
 }
@@ -79,7 +95,11 @@ quit_quiz.onclick = ()=>{
 const next_btn = document.querySelector("footer .next_btn");
 const bottom_ques_counter = document.querySelector("footer .total_que");
 
-//When "Next Button" is Pressed
+/*
+* This function calls the quiz box to change questions and answers that is displayed and active when the next button is clicked. It also signals the timer to count down and a the question counter to change.
+* It does this by pulling the data from functions in this quiz.js file.
+* @param {object, integer}
+*/
 next_btn.onclick = () => {
     if(que_count < questions.length -1 ){
         que_count++;
@@ -99,7 +119,11 @@ next_btn.onclick = () => {
     }
 }
 
-//Questions and Answers Array
+/*
+* This function is what calls the question and aswers in the quiz.
+* It does this by pulling the data from the questions.js file -calling the showQuestions function
+* @param {string, object, integer, string} 
+*/
 function showQuestions(index){
     const que_text = document.querySelector(".que_text");
 
@@ -118,11 +142,17 @@ function showQuestions(index){
     }
 }
 
-//Icons
+/*
+* Displays the icons in the answers section for correct or incorrect.
+*/
 let tickIconTag= '<div class="icon tick"><i class="fas fa-check"></i></div>';
 let crossIconTag= '<div class="icon cross"><i class="fas fa-times"></i></div>';
 
-//When user selects an answer
+/*
+* This function starts when the user selects an answer. 
+* calls the optionSelected function
+* @param {object, integer, string} answer
+*/
 function optionSelected(answer){
     clearInterval(counter);
     clearInterval(counterLine);
@@ -156,6 +186,11 @@ function optionSelected(answer){
     next_btn.classList.add("show");
 }
 
+/*
+* This function shows the result at the end of the quiz.
+* calls the showResult function.
+* @param {object, integer, string} activeInfo, activeQuiz, activeResult
+*/
 function showResult(){
     info_box.classList.remove("activeInfo");
     quiz_box.classList.remove("activeQuiz");
@@ -175,7 +210,11 @@ function showResult(){
         }
 }   
 
-//Timer in Quiz
+/*
+* This function calles the quiz box timer to start and count down
+* calls the startTimer function
+* @param {string}
+*/
 function startTimer(time){
     counter = setInterval(timer, 1000);
     function timer(){
@@ -216,6 +255,11 @@ function startTimerLine(time){
     }
 }
 
+/*
+* This function calles the question counter to change
+* calls the queCounter function 
+* @param {string}
+*/
 function queCounter(index){
     let totalQueCounTag = '<span><p>' + index + '</p> of <p>' + questions.length +'</p> Questions </span>';
     bottom_ques_counter.innerHTML = totalQueCounTag;
