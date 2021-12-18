@@ -214,7 +214,3 @@ function queCounter(index){
 
 
 
-
-
-
-
