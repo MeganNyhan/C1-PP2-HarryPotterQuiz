@@ -276,11 +276,8 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 ### HTML Validation
 <p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
 
-<details><summary>index.html</summary>
-<img src="docs/html-validation/index.html-validation.png"></details>
-
-<details><summary>email.html</summary>
-<img src="docs/html-validation/index.html-validation.png"></details>
+<details><summary>html</summary>
+<img src="docs/html-validation/html-validation.png"></details>
 
  ### CSS Validation
 <p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
