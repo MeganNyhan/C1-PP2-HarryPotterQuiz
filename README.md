@@ -47,11 +47,9 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     </li>
     <li>Be able to track how far in the quiz the users is, <strong>how many questions are answered and have yet to be answered</strong> which will aid the result they get at the end.</li>
     <li>Be able to enter their email <strong>to recieve their results</strong> directly into their mailboxes.</li>
-</ul>
 
 ### Site Owner's Goals
-<ul>
-    <li> Increase traffic to the website.</li>
+   <li> Increase traffic to the website.</li>
     <li>Allow the user to get feedback on each question that is answered, which will hopefully increase the users user experience of the site.</li>
     <li> Have a simply designed website that is accessibile to all users with any tech experience.</li>
     <li> Offer a direct point of contact to new or current users from the website.</li>
