@@ -21,8 +21,8 @@ body {
 
 /* Start Page */
 #start_sec{
-    font-size: 40px;
-    left:32%;
+    font-size: 70px;
+    left:18%;
     top:25%;
     text-align: center;
     color: white;
@@ -39,7 +39,7 @@ body {
     font-family: 'Benne', serif;
     position: absolute;
     background-color: white;
-    padding: 10px 5px 5px 5px;
+    padding: 10px 10px 5px 10px;
     border-radius: 2.5px;
 }
 
@@ -52,7 +52,7 @@ body {
     font-family: 'Benne', serif;
     position: absolute;
     background-color: white;
-    padding: 10px 5px 5px 5px;
+    padding: 10px 10px 5px 10px;
     border-radius: 2.5px;
 }    
 
@@ -438,7 +438,6 @@ footer .next_btn:hover{
 .contact-form {
     margin: 0 10px 0 0;
     color: black;
-    border: 1px solid black;
     max-width: 1000px;
     position: absolute;
     left: 13%;
@@ -446,6 +445,8 @@ footer .next_btn:hover{
     width: 55%;
     background-color: white;
     margin-top: 7%;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px 1px rgba(0, 0, 0, 0.1);
 }
 
 .contact-form > h2 {
@@ -503,7 +504,7 @@ footer .next_btn:hover{
     color: white;
     position:absolute;
     float: left;
-    margin-left: 20px;
+    margin-left: 40px;
     width: 90%;
     padding-top: 40px;
     padding-left: 50px;
@@ -520,7 +521,7 @@ footer .next_btn:hover{
 @media screen and (max-width:768px) {
 
     #responsive{
-        height: 1024px;
+        height: 990px;
     }
 
     /* section positions*/
@@ -539,8 +540,8 @@ footer .next_btn:hover{
 
     /* Quiz Heading */
     #start_sec{
-        font-size: 40px;
-        left:20%;
+        font-size: 60px;
+        left:1%;
         top:25%;
         text-align: center;
         color: white;
@@ -551,14 +552,14 @@ footer .next_btn:hover{
     /*Contact*/
     #logo{
         font-size: 20px;
-        left:50%;
-        top:95%;
+        left:40%;
+        top:90%;
         text-align: center;
         color: black;
         font-family: 'Benne', serif;
         position: absolute;
         background-color: white;
-        padding: 10px 5px 5px 5px;
+        padding: 10px 10px 5px 10px;
         border-radius: 2.5px;
     }
     
@@ -571,7 +572,7 @@ footer .next_btn:hover{
         font-family: 'Benne', serif;
         position: absolute;
         background-color: white;
-        padding: 10px 5px 5px 5px;
+        padding: 10px 10px 5px 10px;
         border-radius: 2.5px;
     }   
 
@@ -687,7 +688,7 @@ footer .next_btn:hover{
     /* Quiz Heading */
     #start_sec{
         font-size: 40px;
-        left:5%;
+        left:2%;
         top:25%;
         text-align: center;
         color: white;
@@ -704,15 +705,15 @@ footer .next_btn:hover{
     /*buttons*/
     #logo{
         font-size: 15px;
-        top:95%;
+        top:85%;
         text-align: center;
         color: black;
         font-family: 'Benne', serif;
         position: absolute;
-        margin-right: 20px;
+        margin-right: 40px;
         font-weight: 500;
         background-color: white;
-        padding: 10px 5px 5px 5px;
+        padding: 10px 10px 5px 10px;
         border-radius: 2.5px;
     }
     
@@ -727,7 +728,7 @@ footer .next_btn:hover{
         position: absolute;
         padding-bottom: 10px;
         background-color: white;
-        padding: 10px 5px 5px 5px;
+        padding: 10px 10px 5px 10px;
         border-radius: 2.5px;
     }   
 
@@ -805,15 +806,16 @@ footer .next_btn:hover{
 }
 
     #para1{
-        font-size: 15px;
+        font-size: 20px;
         color: white;
         position:absolute;
         padding-top: 10%;
-        width: 80%;
+        width: 100%;
+        right: 5%;
 }
 
     #para1 p{
         padding-top: 10px;
-        font-size: 12px
+        font-size: 20px
 }
 }
