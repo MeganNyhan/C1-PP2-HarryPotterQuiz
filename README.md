@@ -467,7 +467,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <li> The where it says source, used the dropdown menu to select "Main".</li>
 <li> After a few moments, refresh the website and you should have a pop-up come up to tell you that "Your site has been published" with your link coming after.</li>
 </ol>
-<p> My link is: https://megannyhan.github.io/CI_PP1_MDRC/ </p>
+<p> My link is: https://megannyhan.github.io/C1_PP2_HarryPotterQuiz/ </p>
 <hr>
 
 <p> Forking the repository is done by the following steps:</p>
