@@ -13,10 +13,12 @@
     <link rel="icon" href="assets/images/android-chrome-512x512.png" type="image/png"> 
 </head>
 <body>
-        <!---Love Running Form-->                    
+        <!---Contact Form-->                    
         <section class="form-section">
             <form class="contact-form">
+                <!--Contact form header-->
                 <h2> Fill out the form and tell us what you think of the quiz!</h2>
+                <!--Input for Contact Form-->
                 <label for="toName">First Name</label>
                 <input id="toName" class="text-input" type="text" name="first_name" required placeholder=" Your First Name" />
                 <label for="fromName">Last Name</label>
@@ -25,24 +27,22 @@
                 <input id="email" class="text-input" type="email" name="email_address" required placeholder=" Your Email Address"/>
                 <label for="msg">Message</label>
                 <input id="msg" class="message-input" type="text" name="message" required placeholder=" Type Your Message Here"/>
-                
+                <!--Submit Button-->
                 <input class="submit-button"  type="submit" value="Submit" onclick="sendMail()"/>
             </form>
      </section> 
-
+     <!--Paragraph in contact page-->
      <div id="para1">We value your feedback and comments very much. Please don't hesitate to get into contact with us if you have anything you'd like to say!
          <p>-The Ultimate Harry Potter Quiz Team</p>
      </div>
+     <!-- Background Image-->
      <img id="responsive" src="assets/images/bacground_image.jpeg" alt="Background image for site">
     <a href="index.html" aria-label="Takes you to the Contact Page.">  
         <h1 id="logo_contact" >Return To The Quiz</h1> 
         </a> 
+        <!-- JavaScript files-->
         <script src="assets/js/email.js"></script>
         <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
-        <script type="text/javascript">
-        (function() {
-            emailjs.init("user_DBFlhfjEt0f11azTfR9I8");
-        })();
 </script>
 </body>
 </html>
