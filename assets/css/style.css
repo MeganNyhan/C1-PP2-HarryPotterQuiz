@@ -823,6 +823,7 @@ footer .next_btn:hover{
 
 /* Page 404 page */
 #error-section{
+    top:50%;
     left: 50%;
     max-width: 450px;
     background: #fff;
