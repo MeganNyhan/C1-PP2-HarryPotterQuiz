@@ -109,16 +109,16 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
   <p>The color scheme that I have used throughout the website is taken directly from the brand guidelines that were available online. I used the following site to get the color scheme: https://www.qualitylogoproducts.com/blog/harry-potter-color-schemes/ . The colors here are used throughout the site on eachpage and interaction. </p>
 
 <details><summary>Colours: Gryffindor</summary>
-  <img src="assets/images/gryffindor.png"></details>
+  <img src="docs/colour-scheme/gryffindor.png"></details>
 
   <details><summary>Colours: Slytherin</summary>
-  <img src="assets/images/slytherin.png"></details>
+  <img src="docs/colour-scheme/slytherin.png"></details>
 
    <details><summary>Colours: Ravenclaw</summary>
-  <img src="assets/images/ravenclaw.png"></details>
+  <img src="docs/colour-scheme/ravenclaw.png"></details>
 
   <details><summary>Colours: Hufflepuff</summary>
-  <img src="assets/images/hufflepuff.png"></details>
+  <img src="docs/colour-scheme/hufflepuff.png"></details>
 
  ### Fonts
   <p>Fonts used on the website were Arial and Benne - A sans serif with a Harry Potter vibe. Benne was used for headings and arial was used in pteh answers.</p>
