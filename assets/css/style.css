@@ -823,11 +823,12 @@ footer .next_btn:hover{
 
 /* Page 404 page */
 #error-section{
-    max-width: 640px;
+    left: 50%;
+    max-width: 450px;
     background: #fff;
     border-radius: 5px;
     opacity: 1;
     pointer-events: none;
     transform:translate(-50%, -50%) scale(1.2);
-    display: flex;
+    float: right;
 }

@@ -1,4 +1,11 @@
-// Selecting all elements within website:
+/*
+*This quiz.js file is used by the index.html file to display and activate the sections, questions and answers needed to create the quiz.
+*This file also creats the interactivity of the quiz through functions created.
+*/
+
+/*
+*Selecting all elements within website:
+*/
 const start_btn = document.querySelector(".start_btn button");
 const info_box = document.querySelector(".info_box");
 const exit_btn = info_box.querySelector(".buttons .quit");
@@ -10,7 +17,11 @@ const time_line = document.querySelector("header .time_line");
 const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
 
-//When "Start Quiz" button clicked
+/*
+* This function calles the info box to be displayed and active when the start button is clicked.
+* It does this by pulling the data from the css file.
+* @param {object} activeInfo
+*/
 start_btn.onclick = ()=>{
     info_box.classList.add("activeInfo");
 }
