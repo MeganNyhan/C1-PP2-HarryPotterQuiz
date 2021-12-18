@@ -195,7 +195,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
  <p> User Stories covered : 1, 4</p>
  <p> Site Owner's Stories covered: 2, 3, 5,6 </p>
         <details><summary>Navigation</summary>
-        <img src="docs/features/home-page.png"></details>
+        <img src="docs/features/start-screen.png"></details>
         
 #### Information/ Rules section
 <ul>
@@ -208,7 +208,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     <p> User Stories covered : 4</p>
     <p>Site Owner's Stories covered: 2, 3</p>
         <details><summary>Information/ Rules Section</summary>
-        <img src="docs/features/rules-page.png"></details>
+        <img src="docs/features/info-section.png"></details>
 
 #### Correct Answer, and Incorrect Answer
 <ul>
@@ -250,7 +250,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     <p> User Stories covered : 3, 4</p>
     <p>Site Owner's Stories covered: 2, 4</p>
         <details><summary>Result Page</summary>
-        <img src="docs/features/result.png"></details>
+        <img src="docs/features/result-section.png"></details>
 
 ### Contact Page
 
