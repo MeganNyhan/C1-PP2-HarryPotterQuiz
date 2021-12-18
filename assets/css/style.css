@@ -820,3 +820,13 @@ footer .next_btn:hover{
         font-size: 20px
 }
 }
+
+/* Page 404 page */
+#error-section{
+    max-width: 640px;
+    background: #fff;
+    border-radius: 5px;
+    opacity: 0;
+    pointer-events: none;
+    transform:translate(-50%, -50%) scale(1.2);
+}
