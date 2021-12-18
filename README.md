@@ -195,7 +195,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
  <p> User Stories covered : 1, 4</p>
  <p> Site Owner's Stories covered: 2, 3, 5,6 </p>
         <details><summary>Navigation</summary>
-        <img src="assets/images/home-page.png"></details>
+        <img src="docs/features/home-page.png"></details>
         
 #### Information/ Rules section
 <ul>
@@ -208,7 +208,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     <p> User Stories covered : 4</p>
     <p>Site Owner's Stories covered: 2, 3</p>
         <details><summary>Information/ Rules Section</summary>
-        <img src="assets/images/rules-page.png"></details>
+        <img src="docs/features/rules-page.png"></details>
 
 #### Correct Answer, and Incorrect Answer
 <ul>
@@ -220,7 +220,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
      <p> User Stories covered : 3, 4, 5, 6</p>
      <p>Site Owner's Stories covered: 6 </p>
         <details><summary>Questions and Answers</summary>
-        <img src="assets/images/Q&A.png"></details>
+        <img src="docs/features/q-&-a.png"></details>
 
 #### Timer in Q&A Section
 <ul>
@@ -230,7 +230,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
      <p> User Stories covered : 4,</p>
      <p> Site Owner's Stories covered: 1, 3, 6</p>
         <details><summary>Footer</summary>
-        <img src="assets/images/Q&A.png"></details>
+        <img src="docs/features/q-&-a.png"></details>
 
 ### Question Counter
 <ul>
@@ -239,7 +239,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     <p> User Stories covered : 3, 5</p>
     <p>Site Owner's Stories covered: 1, 3, 6</p> 
         <details><summary>Question Counter</summary>
-        <img src="assets/images/Q&A.png"></details>
+        <img src="docs/features/q-&-a.png"></details>
 
 ### Result Page
 
@@ -250,7 +250,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     <p> User Stories covered : 3, 4</p>
     <p>Site Owner's Stories covered: 2, 4</p>
         <details><summary>Result Page</summary>
-        <img src="assets/images/result.png"></details>
+        <img src="docs/features/result.png"></details>
 
 ### Contact Page
 
@@ -262,7 +262,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     <p> User Stories covered :2, 3, 5, 6</p>
     <p>Site Owner's Stories covered: 2, 4, 6</p> 
         <details><summary>Contact form</summary>
-        <img src="assets/images/contact_form.png"></details>
+        <img src="docs/features/contact-form.png"></details>
 <hr>
 
  ## Testing:
@@ -271,41 +271,41 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
 
 <details><summary>index.html</summary>
-<img src="assets/images/index.html-validation.png"></details>
+<img src="docs/html-validation/index.html-validation.png"></details>
 
 <details><summary>email.html</summary>
-<img src="assets/images/index.html-validation.png"></details>
+<img src="docs/html-validation/index.html-validation.png"></details>
 
  ### CSS Validation
 <p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
 
 <details><summary>CSS</summary>
-<img src="assets/images/css-validation.png"></details>
+<img src="docs/css-validation/css-validation.png"></details>
 
 ### JS Validation
 <p> To Validate my Java Script, I used the JSHint JS Validation Service. All Java Script passed its Validation with just a few warnings.</p>
 
 <details><summary>email.js</summary>
-<img src="assets/images/email.js.png"></details>
+<img src="docs/javascript-validation/email.js.png"></details>
 
 <details><summary>script.js</summary>
-<img src="assets/images/script.js.png"></details>
+<img src="docs/javascript-validation/script.js.png"></details>
 
 <details><summary>questions.js</summary>
-<img src="assets/images/questions.js.png"></details>
+<img src="docs/javascript-validation/questions.js.png"></details>
 
 ### Accessibility Test
 <p> To Validate my accessibility, I used the WAVE WebAIM web accessibility evaluation tool. I passed with no errors. My site was awarded the following: https://wave.webaim.org/report#/https://megannyhan.github.io/C1_PP2_HarryPotterQuiz/ </p>
 <details><summary>Quiz</summary>
-<img src="assets/images/start-page.png"></details>
+<img src="docs/wave-validation/start-page.png"></details>
 
 
 ## Performance
 <p> To determine my sites performance, I used the Ligthouse web accessibility develepment tool. My site was awarded the following: </p>
 <details><summary>Website Test</summary>
-<img src="assets/images/website.png"></details>
+<img src="docs/lighthouse-report/website.png"></details>
 <details><summary>Mobile Test</summary> 
-<img src="assets/images/mobile.png"></details>
+<img src="docs/lighthouse-report/mobile.png"></details>
 
 ## Device Testing
 <p>The site was tested on the following decives using the responsive tool in Google Chromes Developer tools:</p>
@@ -482,25 +482,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ### Site Images:
 <ul>
-
-<li>https://www.pexels.com/photo/woman-smiling-and-holding-teal-book-1181424/ Photo by Christina Morillo from Pexels</li>
-
-<li> https://pbs.twimg.com/profile_banners/1442473373020213248/1632836293/1500x500 Designed by Declan Meehan featured on Twitter</li>
-
-<li> Google Maps Link: https://www.google.com/maps/place/Milford+%26+District+Resource+Centre/@55.0895701,-7.6994824,15z/data=!4m2!3m1!1s0x0:0x1295c52d66ece440?sa=X&ved=2ahUKEwjz_M3qvPzzAhWSSsAKHQfTAC0Q_BJ6BAhcEAU Designed by Google maps</li>
-
-<li>https://www.pexels.com/photo/gray-and-black-laptop-computer-2764666/ Photo by Oleg Magni from Pexels </li>
-
-
-<li>https://thisismilford.com/wp-content/uploads/2020/02/mdrc10166-1024x768.jpg photo by Declan Meehan on MDRC.ie</li>
+<li>https://wallpapercave.com/hogwarts-houses-wallpapersPhoto by Wallpapper Cave</li>
 </ul>
 
-### Gallery Images:
-
-<ul>
-<li>https://wallpapersafari.com/w/85olXW Photo by Wallpapper Safari </li>
-</ul>
-### Source Code Used in Site
+## Source Code Used in Site
 
 <p> Due to limitations in my knowledge I googled certain code that I wanted to use for the site, see code listed below:</p>
 <ul>
