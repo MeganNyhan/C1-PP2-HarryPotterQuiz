@@ -93,7 +93,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     <li>As the owner, I want a website that is accessible to anyone.</li>
     <li>As the owner, I want a site that will follow the branding that has been established by the franchise.</li>
     <li> As the owner, I want a site that will have the potential to be built upon in the future.</li>
-    <li> As the owner, I want the customers to easily recieve feedback through email and on the screen infront of them.</li>
+    <li> As the owner, I want the customers to easily give feedback through email.</li>
 </ol>
 
 <hr>
@@ -426,7 +426,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 |-------------|------------|---------------------|-------------------|
 | The start page offers the owner space to dd more options| Navigation bar is wide and I as a developer intend to add a blog section in the future among other pages | To have more options added to the start page without comprimising the readability| Works in progress |
 <details><summary>User Testing 11</summary>
-<img src="docs/testing-user-stories/user-story-11.jpg">
+<img src="docs/testing-user-stories/user-story-2.jpg">
 <p> The Navigation bar is simple and can easily be extended on any device..</p>
 </details>
 <hr>
