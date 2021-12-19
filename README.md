@@ -91,7 +91,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
    <li>As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users. </li>
     <li>As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have.</li>
     <li>As the owner, I want a website that is accessible to anyone.</li>
-    <li>As the owner, I want a site that will follow the branding that has been established by nteh franchise.</li>
+    <li>As the owner, I want a site that will follow the branding that has been established by the franchise.</li>
     <li> As the owner, I want a site that will have the potential to be built upon in the future.</li>
     <li> As the owner, I want the customers to easily recieve feedback through email and on the screen infront of them.</li>
 </ol>
@@ -338,11 +338,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     2."As a user, I want to be able to test my knowledge of the harry potter universe and know how I scored at the end of the quiz."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Services information grid| Navigate to the Services page, locate the services grid and read prinitng info box | Finds the printing box and goes to the contact page using contact button |   Works as expected |
-| Nav- Locate services page, services list and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
+| Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected |
+| Questions- Answer the questions in the, once finished press continue | Once the quiz is over | View the results in the result section | Works as expected |
 <details><summary>User Testing 2</summary>
-<img src="assets/images/user-story-2.1.png">
-<img src="assets/images/user-story-2.2.png"></details>
+<img src="docs/testing-user-stories/user-story-2.jpg"></details>
 <hr>
 
     3."As a user I want to know exactly what my score was in the quiz without confusion."
