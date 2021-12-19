@@ -76,7 +76,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ### User Stories
 
-### First time and Recurring Stories and Site's Owner Stories
+### First time and Recurring Stories 
 <ol>
     <li>As a user, I want to a quiz that is responsive to all screen types.</li>
     <li>As a user, I want to be able to test my knowledge of the harry potter universe and know how I scored at the end of the quiz.</li>
@@ -85,7 +85,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
         <li>As a user who doesn't understand websites, I want to easily know what answer I got wrong and right, and how many questions I still have to answer
     </li>
     <li>As a user who is new to the Harry Potter universe, I want to know what the correct answer is before even when I have answered the questions wrong.</li>
-    <li>As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users. </li>
+
+### Site's Owner Stories
+
+   <li>As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users. </li>
     <li>As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have.</li>
     <li>As the owner, I want a website that is accessible to anyone.</li>
     <li>As the owner, I want a site that will follow the branding that has been established by nteh franchise.</li>
