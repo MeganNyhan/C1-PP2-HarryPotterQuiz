@@ -386,10 +386,9 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     1."As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button | Works as expected |
-| Nav- Locate services and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
+| Interactive quiz | The site's user can enjoy a interactive quiz, answering question s with direct feedback | The user will enjoy the quiz | Works as expected |
 <details><summary>User Testing 7</summary>
-<img src="assets/images/user-story-7.png"></details>
+<img src="docs/mock-up/mock-up.png"></details>
 <hr>
 
     2."As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have."
