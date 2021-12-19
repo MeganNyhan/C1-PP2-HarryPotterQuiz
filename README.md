@@ -366,10 +366,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     5."As a user who doesn't understand websites, I want to easily know what answer I got wrong and right, and how many questions I still have to answer."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Information | Navigate to the Contact page, locate the contact information and phone number or contact form | Finds the phone number and calls the office or uses the contact form to conact the office via email| Works as expected |
-|Contact Information and contact form in contact page| On any page scroll up to the nav bar | Finds the companies contact inforamtion | Works as expected |
+| Correct or Incorrect Answer | Once the question is answered and the user selects their answer, an icon will come up with a tick (if right) or cross (if wrong) | User can easily read if they answered correctly or incorrectly |
+|Answer validaton for the user| Available within the question section | Views if they got the answer wrong or right | Works as expected |
 <details><summary>User Testing 5</summary>
-<img src="assets/images/user-story-5.png"></details>
+<img src="docs/testing-user-stories/user-story-5.jpg"></details>
 
 <hr>
 
