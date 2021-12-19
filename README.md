@@ -356,13 +356,11 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     4."As a user who not tech savy, I want the quiz to be easy to navigate through and still be able to have as good of an experience as someone who knows how to navigate online better than me."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|Navigation| Navigate to any pages in the site, and perform desired goal | Finds the information they wanted | Works as expected |
-|Nav bar on top of each page | On any page scroll up to the nav bar | Find any information available to the user | Works as expected |
+|Navigation| Navigate through the quiz easily and logically | Finds the quiz easy to navigate | Works as expected |
+|Navigation comprises as the buttons that are available throughout the quiz | All pages allows the user to continue on through the quiz. Once in the quiz you have to finish the quiz | Navigate the quiz easily | Works as expected |
 <details><summary>User Testing 4</summary>
-<img src="assets/images/nav-bar.png">
-<p> The nav bar is simple in design and offers 4 options</p></details>
-
-
+<img src="docs/testing-user-stories/user-story-4.1.jpg">
+<img src="docs/testing-user-stories/user-story-4.2.jpg"></details>
 <hr>
 
     5."As a user who doesn't understand websites, I want to easily know what answer I got wrong and right, and how many questions I still have to answer."
