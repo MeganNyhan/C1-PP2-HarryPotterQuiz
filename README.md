@@ -412,10 +412,12 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     4."As the owner, I want a site that will follow the branding that has been established by the franchise."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|Navigation, Services Page, and Services Grid| Navigate to the services page where you can view the services grid| Finds the information on the services they wanted | Works as expected |
-|Nav bar on top of each page including a link to the services page | On any page scroll up to the nav bar and select the services tab | Find any information on services available to the user and offer the possibilitiy of contacting the centre for more information they need | Works as expected |
-<details><summary>User Testing 10</summary>
-<img src="assets/images/user-story-6.png">
+|The colours used throughout the site is of the brand guidelines of the franchise| Recognisable colours of the website ties the quiz to the franchise| Knows from the first look of the quiz it's harry potter related| Works as expected |
+<details><summary>User Testing 10</summary> <p> Brand guidelines </p>
+<img src="docs/colour-scheme/gryffindor.png">
+<img src="docs/colour-scheme/hufflepuff.png">
+<img src="docs/colour-scheme/ravenclaw.png">
+<img src="docs/colour-scheme/slytherin.png">
 </details>
 <hr>
 
