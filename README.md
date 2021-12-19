@@ -327,8 +327,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     1."As a user, I want to a quiz that is responsive to all screen types."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button |    Works as expected |
-| Nav- Locate services and then contact button | On any page scroll up to the nav bar | Find the list of services | Works as expected |
+| Responsive site design| Use the website on serveral different screens | Website works fine ans effectively on all screens |    Works as expected |
 <details><summary>User Testing 1</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
