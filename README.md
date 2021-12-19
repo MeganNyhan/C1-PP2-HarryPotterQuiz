@@ -350,7 +350,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 | Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected |
 | Questions- Answer the questions in the, once finished press continue | Once the quiz is over | View the results in the result section | Works as expected |
 <details><summary>User Testing 3</summary>
-<img src="docs/testing-user-stories/user-story-2.jpg"></details>
+<img src="docs/testing-user-stories/user-story-3.jpg"></details>
 <hr>
 
     4."As a user who not tech savy, I want the quiz to be easy to navigate through and still be able to have as good of an experience as someone who knows how to navigate online better than me."
