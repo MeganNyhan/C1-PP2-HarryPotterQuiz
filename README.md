@@ -431,13 +431,13 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 </details>
 <hr>
 
-    6."As the owner, I want the customers to easily recieve feedback through email and on the screen infront of them."
+    6."As the owner, I want the customers to easily give feedback through email."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|Contat Page with a adress and google maps link | Navigate (using the nav bar) to the Contact Page and find at the top of the page an adress, and when scrolled down the user will find a map too | Find the location easily and travels to the office | Works as Expected|
-|Contact page with address and map, also a phone number for back up incase someone doesn't understand the map| On any page scroll up to the nav bar and find the contact page | Finds the companies address and other location informtion | Works as expected |
+|Contat Page with a contact form | Navigate to the Contact Page, using the link and find a contact form | Find the form easily and contact the business easily| Works as Expected|
+|Contact page with contact form| On any page scroll down to the contact page link| Finds the contact form | Works as expected |
 <details><summary>User Testing 12</summary>
-<img src="assets/images/user-story-3.png"></details>
+<img src="docs/testing-user-stories/contact-form.png"></details>
 
 ## Bugs:
 
