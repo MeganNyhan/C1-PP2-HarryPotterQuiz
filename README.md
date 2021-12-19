@@ -347,10 +347,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     3."As a user I want to know exactly what my score was in the quiz without confusion."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Information and Google Maps| Navigate to the Contact page, locate the contact information and google maps box | Finds the location and travels to the office |   Works as expected |
-|Google Maps in contact page and other contact information | On any page scroll up to the nav bar | Find the comapnies contact inforamtion and google maps box | Works as expected |
+| Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected |
+| Questions- Answer the questions in the, once finished press continue | Once the quiz is over | View the results in the result section | Works as expected |
 <details><summary>User Testing 3</summary>
-<img src="assets/images/user-story-3.png"></details>
+<img src="docs/testing-user-stories/user-story-2.jpg"></details>
 <hr>
 
     4."As a user who not tech savy, I want the quiz to be easy to navigate through and still be able to have as good of an experience as someone who knows how to navigate online better than me."
