@@ -394,21 +394,19 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     2."As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Home Page | Allows the owner to easily up date and change the information displayed on the site.| Works as expected |
-| Home page is the landing page which users will land on firat | Update the website as needed | New information displayed | Works as expected |
-<details><summary>User Testing 8</summary>
-<img src="assets/images/home-user-story.png">
-</details>
+| Responsive site design| Use the website on serveral different screens | Website works fine ans effectively on all screens |    Works as expected |
+<details><summary>User Testing 1</summary>
+<img src="docs/mock-up/mock-up.png"></details>
 <hr>
 
     3."As the owner, I want a website that is accessible to anyone."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Simple style Navigation | Navigation allows users a restricted choice between possible pages they need information from (Restricted as it doesn't allow too many decisions) | Finds the information they need easily |   Works as expected |
-|Nav bar at the top of page allows simple navigation throughput site, providing a good User Experience | On any page scroll up to the nav bar | Find the information they wanted seamlessly | Works as expected |
-<details><summary>User Testing 9</summary>
-<img src="assets/images/nav-bar.png">
-<p> The Navigation bar is simple and easily used by anyone.</p></details>
+|Navigation| Navigate through the quiz easily and logically | Finds the quiz easy to navigate | Works as expected |
+|Navigation comprises as the buttons that are available throughout the quiz | All pages allows the user to continue on through the quiz. Once in the quiz you have to finish the quiz | Navigate the quiz easily | Works as expected |
+<details><summary>User Testing 4</summary> <p>User can enjoy a logical, and simple, good experience from the onset of the quiz </p>
+<img src="docs/testing-user-stories/user-story-4.1.jpg">
+<img src="docs/testing-user-stories/user-story-4.2.jpg"></details>
 <hr>
 
     4."As the owner, I want a site that will follow the branding that has been established by the franchise."
