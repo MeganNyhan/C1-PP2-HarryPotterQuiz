@@ -324,7 +324,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ### Testing User Stories
 
-    1."As a user, I want to be able to view the services that I can avail of in my local community."
+    1."As a user, I want to a quiz that is responsive to all screen types."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button |    Works as expected |
@@ -333,7 +333,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
 
-    2."As a user, I want to know where I can get a avail of printing in my area."
+    2."As a user, I want to be able to test my knowledge of the harry potter universe and know how I scored at the end of the quiz."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Services information grid| Navigate to the Services page, locate the services grid and read prinitng info box | Finds the printing box and goes to the contact page using contact button |   Works as expected |
@@ -343,7 +343,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <img src="assets/images/user-story-2.2.png"></details>
 <hr>
 
-    3."As a user with the view of visting the office, I want to know exactly where it is located."
+    3."As a user I want to know exactly what my score was in the quiz without confusion."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Information and Google Maps| Navigate to the Contact page, locate the contact information and google maps box | Finds the location and travels to the office |   Works as expected |
@@ -352,7 +352,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <img src="assets/images/user-story-3.png"></details>
 <hr>
 
-    4."As a user who not tech savy, I want to be able to read, understand and navigate an easy and understandable website."
+    4."As a user who not tech savy, I want the quiz to be easy to navigate through and still be able to have as good of an experience as someone who knows how to navigate online better than me."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 |Navigation| Navigate to any pages in the site, and perform desired goal | Finds the information they wanted | Works as expected |
@@ -364,7 +364,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 <hr>
 
-    5."As a user who doesn't understand websites, I want to easily find a phone number for the office so I can contact them."
+    5."As a user who doesn't understand websites, I want to easily know what answer I got wrong and right, and how many questions I still have to answer."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Information | Navigate to the Contact page, locate the contact information and phone number or contact form | Finds the phone number and calls the office or uses the contact form to conact the office via email| Works as expected |
@@ -374,7 +374,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 <hr>
 
-    6."As a user who owns a local business, I want to contact them get a quote for the price of business cards."
+    6."As a user who is new to the Harry Potter universe, I want to know what the correct answer is before even when I have answered the questions wrong."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 |Services Page, and Graphic Design box with contact button | Navigate to the Services page, locate the services information and the contact us button | Finds the phone number when redirected to the phone number and calls the office or uses the contact form to ask for a qoute |
@@ -384,7 +384,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ### Testing Site Owner's Stories
 
-    1."As the owner of the site, I want my potential customers to have a place where they can view the services I offer."
+    1."As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Services information grid| Navigate to the Services page, locate the services grid | Finds a service they are interested in and goes to the contact page using contact button | Works as expected |
@@ -393,7 +393,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <img src="assets/images/user-story-7.png"></details>
 <hr>
 
-    2."As the owner, I want to have an online platform that can be a hub of information for the locals in the area."
+    2."As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Home Page | Allows the owner to easily up date and change the information displayed on the site.| Works as expected |
@@ -413,7 +413,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <p> The Navigation bar is simple and easily used by anyone.</p></details>
 <hr>
 
-    4."As the owner, I want a site that will encourage my customers to use the services we have to offer."
+    4."As the owner, I want a site that will follow the branding that has been established by the franchise."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 |Navigation, Services Page, and Services Grid| Navigate to the services page where you can view the services grid| Finds the information on the services they wanted | Works as expected |
@@ -433,7 +433,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 </details>
 <hr>
 
-    6."As the owner, I want the customers to easily locate the company."
+    6."As the owner, I want the customers to easily recieve feedback through email and on the screen infront of them."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 |Contat Page with a adress and google maps link | Navigate (using the nav bar) to the Contact Page and find at the top of the page an adress, and when scrolled down the user will find a map too | Find the location easily and travels to the office | Works as Expected|
