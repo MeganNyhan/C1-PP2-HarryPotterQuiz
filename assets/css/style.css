@@ -921,11 +921,10 @@ figcaption span {
 	}
 }
 
-.return{
+.buttons button.return{
     font-size: 20px;
     font-weight: 500;
     color: #740001;
-    padding: 10px 20px;
     outline: none;
     border: 1px solid #740001;
     border-radius: 5px;
