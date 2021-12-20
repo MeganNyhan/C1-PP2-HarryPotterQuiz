@@ -930,4 +930,6 @@ figcaption span {
     border-radius: 5px;
     background: #EBECF0;
     cursor: pointer;
+    top: 85%;
+    left: 50%;
 }
