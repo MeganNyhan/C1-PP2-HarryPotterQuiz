@@ -4,7 +4,7 @@
 
  # PROJECT 2: THE ULTIMATE HARRY POTTER QUIZ
 
-The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members of the Harry Potter fandom's knowledge of the vast Harry Potter universe. The main purpose of this site is to offer the fandom of any age and technical background a chance to experience a fully interactive quiz, that offers the user feedback of how they are doing in the quiz/ how far through the quiz they are. *The quiz also utilizes email JS to send the users an automated email with the users result from the quiz*.
+The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members of the Harry Potter fandom's knowledge of the vast Harry Potter universe. The main purpose of this site is to offer the fandom of any age and technical background a chance to experience a fully interactive quiz, that offers the user feedback of how they are doing in the quiz/ how far through the quiz they are. The quiz also utilizes email JS to allow the users to give feedback directly to the owner of the quiz, on the quiz itself.
 <hr>
 
 ## Table of Content
@@ -45,14 +45,14 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <ul>
     <li>Allowing memebers of the Harry Potter fandom to quiz their knowledge of the Harry Potter universe.
     </li>
-    <li>Be able to track how far in the quiz the users is, <strong>how many questions are answered and have yet to be answered</strong> which will aid the result they get at the end.</li>
-    <li>Be able to enter their email <strong>to recieve their results</strong> directly into their mailboxes.</li>
+    <li>Be able to track how far in the quiz the users are, <strong>how many questions are answered and have yet to be answered</strong> which will aid the result they get at the end.</li>
+    <li>Be able to enter their email <strong>to open a line of contact with the owner of the site and themselves,</strong> directly into their mailboxes.</li>
     </ul>
 
 ### Site Owner's Goals
    <ul>
    <li> Increase traffic to the website.</li>
-    <li>Allow the user to get feedback on each question that is answered, which will hopefully increase the users user experience of the site.</li>
+    <li>Allow the user to get feedback on each question that is answered, which will hopefully increase a positive experience of the site.</li>
     <li> Have a simply designed website that is accessibile to all users with any tech experience.</li>
     <li> Offer a direct point of contact to new or current users from the website.</li>
 </ul>
@@ -62,16 +62,16 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 ### User Experience:
 
 ### Target Audience 
-<p> The target audience for this site is quite broad. The fandom itself covers a wide range of ages, cultures and ethnicity. The english is easy and should be understandable to people regardless of theit levels of english. The simple design aids users of begginers knowledge of computers and is straight-forward to navigate through. </p>
+<p> The target audience for this site is quite broad. The fandom itself covers a wide range of ages, cultures and ethnicity. The english is easy and should be understandable to people regardless of theit levels of english. The simple design aids users of begginer knowledge of computers and is straight-forward navigation to navigate through the site. </p>
 
 ### User Requirements
-<p>As I have mentioned, we have a very large/ varied target audience, and because of this the site has to be simple in design and very accessible. They way I have tackled this are as follows:</p>
+<p>As I have mentioned, we have a very large/ varied target audience, and because of this the site has to be simple in design and very accessible. The way I have tackled this is as follows:</p>
 <ul>
-    <li>Simple navigation that is non-ambiguous</li>
+    <li>Simple navigation that is non-ambiguous.</li>
     <li>Have skimmable text for answers and questions which are easy to understand.</li>
-    <li>Simple presentation of content on the page that make logical sense. </li>
+    <li>Simple presentation of content on the page that makes logical sense. </li>
     <li>A functional responsive wesite that allow the user to do the quiz, regardless of screen size. </li>
-    <li>A straightforward and professional form that allows users to easily contact the business, and recieve their feedback.</li>
+    <li>A straightforward and professional form that allows users to easily contact the business, and give their feedback.</li>
 </ul>
 
 ### User Stories
@@ -81,7 +81,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     <li>As a user, I want to a quiz that is responsive to all screen types.</li>
     <li>As a user, I want to be able to test my knowledge of the harry potter universe and know how I scored at the end of the quiz.</li>
     <li>As a user I want to know exactly what my score was in the quiz without confusion.</li>
-    <li>As a user who not tech savy, I want the quiz to be easy to navigate through and still be able to have as good of an experience as someone who knows how to navigate online better than me.</li>
+    <li>As a user who not tech savy, I want the quiz to be easy to navigate through and still be able to have as good an experience as someone who knows how to navigate online better than me.</li>
         <li>As a user who doesn't understand websites, I want to easily know what answer I got wrong and right, and how many questions I still have to answer
     </li>
     <li>As a user who is new to the Harry Potter universe, I want to know what the correct answer is before even when I have answered the questions wrong.</li>
@@ -101,7 +101,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 ## Design:
 
 ### Design Choices
-<p> The Harry Potter multiverse (both books and mives) itself is a multiverse with a wide target audience, and with this in mind I wanted to create a site that was accessible to everyone regardless of their technical ability, level of english, and ability to operate a computer. I wanted all designs to be simplistic, the navigation to be logical and seamless and for the accessibility to be a primary concern. </p>
+<p> The Harry Potter multiverse (both books and movies) itself is a multiverse with a wide target audience, and with this in mind I wanted to create a site that was accessible to everyone regardless of their technical ability, level of english, and ability to operate a computer. I wanted all designs to be simplistic, the navigation to be logical and seamless and for the accessibility to be a primary concern. </p>
 
 ### Colour
 
@@ -120,15 +120,15 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
   <img src="docs/colour-scheme/hufflepuff.png"></details>
 
  ### Fonts
-  <p>Fonts used on the website were Arial and Benne - A sans serif with a Harry Potter vibe. Benne was used for headings and arial was used in pteh answers.</p>
+  <p>Fonts used on the website were Arial and Benne - A sans serif with a Harry Potter vibe. Benne was used for headings and arial was used in the answers.</p>
 
  ### Structure
 <p>The structure of this website was designed to be easily navagated through and easy to learn. I made sure that each page followed a similar structure but didn't comprimise the content that each page held. The following sections are within the structure of the site:</p>
 
 <ul>
-<li> A home Page = Start button for the quiz and a contact button for users to access a contact form.</li>
+<li> A Home Page/Start screen = Start button for the quiz and a contact button for users to access a contact form.</li>
 <li> A Contact page = The contact page allows users to send an email to the site owner to give feedback on the site. </li>
-<li> The quiz Section = The quiz section is where the questions and answers are. The user has 4 answer options to choose from and depending on the answer (if correct or incorrect) the user an icon with the correct answer will show. If your answer is wrong an x will appear beside it. Also here, the user is able to dictate what question their on by the question counter at the bottom of the section. There is a timer at the top of the section that will count down from 20 seconds, and if it runs out it will disable the quiz and show the correct answer.</li>
+<li> The quiz Section = The quiz section is where the questions and answers are. The user has 4 answer options to choose from and depending on the answer (if correct or incorrect) an icon beside the correct answer will show. If your answer is wrong an x will appear beside it. Also here, the user is able to dictate what question their on by the question counter at the bottom of the section. There is a timer at the top of the section that will count down from 20 seconds, and if it runs out it will disable the quiz and show the correct answer.</li>
 <li> The Results Page = Shows the user their score out of ten. It will also give the user the option of restarting the quiz or quiting it - taking them back to the start/home page.</li>
 <li> Also in the quiz there is an info section that goes over some rules that the user has to follow when going through the quiz.</li>
 
@@ -136,7 +136,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 ### Wireframes
 
-<p>The wireframes included have evolved and changed since I originally drew them up over a week ago. This is due to the limitations of my skills thus far, and developed and changes I have made personally to the look of the site when building it.</p>
+<p>The wireframes included have evolved and changed since I originally drew them up over a week ago. This is due to the limitations of my skills thus far, and changes I have made personally to the look of the site when building it.</p>
 
 <details><summary> Home/Start Page</summary>
 <img src="docs/wireframes/wireframe-1.png"></details>
@@ -186,10 +186,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 #### Start Button
 
 <ul>
-    <li>The navigation bar is very limited to what the user can do, where you can go and what options there are to choose from. The nav bar is basically a start quiz button. There is also a "email your results" option where you can send yourself your results to your email. </li>
-    <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site do a myriad of users.</li>
+    <li>The navigation bar is very limited to what the user can do, where you can go and what options there are to choose from. The nav bar is basically a start quiz button. There is also a "got feedback?" option where you can send yourself your results to your email. </li>
+    <li> The navigation will also be responsive across all devices, which will also serve to the accessibilty of the site to a myriad of users.</li>
     <li> Navigation throught the quiz features a next question button. The user is not able to exit the quiz before they finish it. This is made clear to the users at the information/rules section that they have to read before entering the quiz. Here there is a continue with quiz or exit quiz option.</li>
-    <LI> When the quiz is over the user is given the option of replaying the quiz or quiting it. Quiting it takes the user back to the start quiz screen, and replay takes the user to the first question of the quiz.</LI>
+    <lI> When the quiz is over the user is given the option of replaying the quiz or quiting it. Quiting it takes the user back to the start quiz screen, and replay takes the user to the first question of the quiz.</lI>
     </ul>
  <p> User Stories covered : 1, 4</p>
  <p> Site Owner's Stories covered: 2, 3, 5,6 </p>
@@ -212,7 +212,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 #### Correct Answer, and Incorrect Answer
 <ul>
      <li>
-     As a feature of the Questions and Answers section of the quiz, when an answer is answered teh User will get direct feedback from the quiz to let them know if they have answered correctly or not. If the answer is wrong the user will be told and the correct answer will be revealed with a tick beside it in green.</li>
+     As a feature of the Questions and Answers section of the quiz, when an answer is answered the User will get direct feedback from the quiz to let them know if they have answered correctly or not. If the answer is wrong the user will be told and the correct answer will be revealed with a tick beside it in green.</li>
      <li> The main purpose of this is to offer the User directed feedback from the quiz. 
      </li>
      </ul>
@@ -224,7 +224,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 #### Timer in Q&A Section
 <ul>
      <li> The timer gives the user a time limit to answer the quiz. It counts down from 20 to give the user 20 seconds to answer.</li>
-     <li> The timer, when it runs out, will stop the user from answering the quiz and will show them the correct answer that they should of chosen.</li>
+     <li> The timer, when it runs out, will stop the user from answering the quiz and will show them the correct answer that they should have chosen.</li>
      </ul>
      <p> User Stories covered : 4,</p>
      <p> Site Owner's Stories covered: 1, 3, 6</p>
@@ -243,7 +243,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 ### Result Page
 
 <ul>
-    <li>The Result Page is where the users scores are displayed when they have completed the quiz.</li>
+    <li>The Result Page is where the user's scores are displayed when they have completed the quiz.</li>
     <li> The main purpose of this section is to display the score the user earned and also to give them the option of restarting the quiz or quiting it altogether and returning to the start screen.</li>
     </ul>
     <p> User Stories covered : 3, 4</p>
@@ -336,7 +336,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     1."As a user, I want to a quiz that is responsive to all screen types."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Responsive site design| Use the website on serveral different screens | Website works fine ans effectively on all screens |    Works as expected |
+| Responsive site design| Use the website on serveral different screens | Website works fine ans effectively on all screens | Works as expected |
 <details><summary>User Testing 1</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
@@ -345,7 +345,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected |
-| Questions- Answer the questions in the, once finished press continue | Once the quiz is over | View the results in the result section | Works as expected |
+| Questions- Answer the questions, once finished press continue | Once the quiz is over | View the results in the result section | Works as expected |
 <details><summary>User Testing 2</summary>
 <img src="docs/testing-user-stories/user-story-2.jpg"></details>
 <hr>
@@ -359,7 +359,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <img src="docs/testing-user-stories/user-story-3.jpg"></details>
 <hr>
 
-    4."As a user who not tech savy, I want the quiz to be easy to navigate through and still be able to have as good of an experience as someone who knows how to navigate online better than me."
+    4."As a user who's not tech savy, I want the quiz to be easy to navigate through and still be able to have as good of an experience as someone who knows how to navigate online better than me."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 |Navigation| Navigate through the quiz easily and logically | Finds the quiz easy to navigate | Works as expected |
@@ -480,11 +480,10 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <li>Once you press enter your local clone is created.</li></ol>
 
 ## Credits:
-<p> Images not li nked and referenced below were designed and taken by the author.</p>
 
 ### Site Images:
 <ul>
-<li>https://wallpapercave.com/hogwarts-houses-wallpapersPhoto by Wallpapper Cave</li>
+<li>https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogthatmustnotbenamed.com%2Ftag%2Fslytherin%2F&psig=AOvVaw1kMQYpZEHbPP3PV2tZUHIr&ust=1640104550871000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNixstvn8vQCFQAAAAAdAAAAABAD by Wallpapper Cave</li>
 </ul>
 
 ## Source Code Used in Site
