@@ -834,7 +834,7 @@ footer .next_btn:hover{
     float: right;
 }
 
-.error-logo{
+#error-logo{
     top: 25%;
     left: 50%;
     width: 25%;
