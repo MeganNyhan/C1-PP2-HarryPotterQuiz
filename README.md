@@ -271,6 +271,12 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 <li>Within the send email function I directly linked the function to send the email template I created on the Email JS website to send the email with what the user has typed into the forms input fields. </li>
 </ul>
 
+### Page 404
+
+<p> I have also made a page 404 page so if the user manages to search a page that doesn't exist they are prompted to go back to the quiz. The button to return to the quiz is at the top left beside the return button.</p>
+<details><summary>page 404</summary>
+<img src="docs/page-404/page404.png"></details>
+
 ## Testing:
 ### HTML Validation
 <p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
