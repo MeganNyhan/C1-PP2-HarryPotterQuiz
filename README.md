@@ -401,7 +401,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Responsive site design| Use the website on serveral different screens | Website works fine ans effectively on all screens |    Works as expected |
-<details><summary>User Testing 1</summary>
+<details><summary>User Testing 8</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
 
@@ -410,7 +410,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 |-------------|------------|---------------------|-------------------|
 |Navigation| Navigate through the quiz easily and logically | Finds the quiz easy to navigate | Works as expected |
 |Navigation comprises as the buttons that are available throughout the quiz | All pages allows the user to continue on through the quiz. Once in the quiz you have to finish the quiz | Navigate the quiz easily | Works as expected |
-<details><summary>User Testing 4</summary> <p>User can enjoy a logical, and simple, good experience from the onset of the quiz </p>
+<details><summary>User Testing 9</summary> <p>User can enjoy a logical, and simple, good experience from the onset of the quiz </p>
 <img src="docs/testing-user-stories/user-story-4.1.jpg">
 <img src="docs/testing-user-stories/user-story-4.2.jpg"></details>
 <hr>
