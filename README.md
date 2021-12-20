@@ -430,9 +430,9 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
     5."As the owner, I want a site that will have the potential to be built upon in the future."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| The start page offers the owner space to dd more options| Navigation bar is wide and I as a developer intend to add a blog section in the future among other pages | To have more options added to the start page without comprimising the readability| Works in progress |
+| The start page offers the owner space to add more options| Navigation bar is wide and I as a developer intend to add a blog section in the future among other pages | To have more options added to the start page without comprimising the readability| Works in progress |
 <details><summary>User Testing 11</summary>
-<img src="docs/testing-user-stories/user-story-2.jpg">
+<img src="docs/features/start-screen.png">
 <p> The Navigation bar is simple and can easily be extended on any device..</p>
 </details>
 <hr>
