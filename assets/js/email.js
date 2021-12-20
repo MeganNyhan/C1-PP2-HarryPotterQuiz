@@ -12,7 +12,7 @@ function sendMail(params){
   };
   emailjs.send('service_va76r2o', 'template_wh1kqsp', tempParams)
   .then((res) => {
-    window.confirm("Your email was Sent!");
+    window.alert("Your email has been sent!")
   }
   )}
 

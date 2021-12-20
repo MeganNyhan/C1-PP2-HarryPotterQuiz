@@ -281,8 +281,14 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
 ### HTML Validation
 <p> To Validate my HTML I used the W3C Markup Validation Service. All HTML passed its Validation with no errors but a few warnings as shown below in the pictures.</p>
 
-<details><summary>html</summary>
-<img src="docs/html-validation/html-validation.png"></details>
+<details><summary>Quiz</summary>
+<img src="docs/html-validation/quiz-validation.png"></details>
+
+<details><summary>Contact</summary>
+<img src="docs/html-validation/contact-validation.png"></details>
+
+<details><summary>Page 404</summary>
+<img src="docs/html-validation/page404-validation.png"></details>
 
  ### CSS Validation
 <p> To Validate my CSS, I used the W3C Jigsaw CSS Validation Service. All CSS passed its Validation.</p>
@@ -305,15 +311,20 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
 ### Accessibility Test
 <p> To Validate my accessibility, I used the WAVE WebAIM web accessibility evaluation tool. I passed with no errors. My site was awarded the following: https://wave.webaim.org/report#/https://megannyhan.github.io/C1_PP2_HarryPotterQuiz/ </p>
 <details><summary>Quiz</summary>
-<img src="docs/wave-validation/start-page.png"></details>
+<img src="docs/wave-validation/quiz-accessibility.png"></details>
+<details><summary>Contact</summary>
+<img src="docs/wave-validation/contact-accessibility.png"></details>
+<details><summary>Page404</summary>
+<img src="docs/wave-validation/p404-accessibility.pngg"></details>
 
 
 ## Performance
 <p> To determine my sites performance, I used the Ligthouse web accessibility develepment tool. My site was awarded the following: </p>
-<details><summary>Website Test</summary>
-<img src="docs/lightouse-report/desktop.png"></details>
-<details><summary>Mobile Test</summary> 
-<img src="docs/lightouse-report/mobile.png"></details>
+<details><summary>Start</summary>
+<img src="docs/lightouse-report/start-performance.png"></details>
+<details><summary>Contact Page</summary> 
+<img src="docs/lightouse-report/contact-performance.png"></details>
+
 
 ## Device Testing
 <p>The site was tested on the following decives using the responsive tool in Google Chromes Developer tools:</p>
