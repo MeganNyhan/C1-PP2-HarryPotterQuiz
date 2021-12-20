@@ -1,7 +1,7 @@
 /*
 * This function sends an email to the user from the site, through emailJS.
 * calls the function sendMail()
-* @param {object, integer, string} - found in the html file.
+* @param {string: Params} - found in the html file.
 */
 
 function sendMail(params){
