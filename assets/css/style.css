@@ -921,7 +921,7 @@ figcaption span {
 	}
 }
 
-.buttons button.return{
+.return_button{
     font-size: 20px;
     font-weight: 500;
     color: #740001;
