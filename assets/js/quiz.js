@@ -20,7 +20,6 @@ const timeCount = document.querySelector(".timer .timer_sec");
 /*
 * This function calles the info box to be displayed and active when the start button is clicked.
 * It does this by pulling the data from the css file.
-* @param {object} activeInfo
 */
 start_btn.onclick = ()=>{
     info_box.classList.add("activeInfo");
@@ -29,7 +28,6 @@ start_btn.onclick = ()=>{
 /*
 * This function calles the info box to be displayed and active when the exit button is clicked.
 * It does this by pulling the data from the css file.
-* @param {object} activeInfo
 */
 exit_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); 
@@ -38,7 +36,6 @@ exit_btn.onclick = ()=>{
 /*
 * This function calles the quiz box to be displayed and active when the continue button is clicked.
 * It does this by pulling the data from the css file, similar to the start and exit button.
-* @param {object, integer} activeInfo and activeQuiz
 */
 continue_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); 
@@ -63,7 +60,6 @@ const quit_quiz = result_box.querySelector(".buttons .quit");
 /*
 * This function calles the quiz box to be displayed and restart when the restart button is clicked.
 * It does this by pulling the data from the css file, similar to the start and exit button.
-* @param {object, integer, string} activeInfo, activeResult 
 */
 restart_quiz.onclick = ()=> {
     quiz_box.classList.add("activeQuiz");
@@ -86,7 +82,6 @@ restart_quiz.onclick = ()=> {
 /*
 * This function calles the start/ home page to be displayed and active when the quit button is clicked.
 * It does this by pulling the data from the css file, similar to the start and exit button.
-* @param {object, integer, string}
 */
 quit_quiz.onclick = ()=>{
     window.location.reload();
@@ -98,7 +93,6 @@ const bottom_ques_counter = document.querySelector("footer .total_que");
 /*
 * This function calls the quiz box to change questions and answers that is displayed and active when the next button is clicked. It also signals the timer to count down and a the question counter to change.
 * It does this by pulling the data from functions in this quiz.js file.
-* @param {object, integer}
 */
 next_btn.onclick = () => {
     if(que_count < questions.length -1 ){
@@ -122,7 +116,7 @@ next_btn.onclick = () => {
 /*
 * This function is what calls the question and aswers in the quiz.
 * It does this by pulling the data from the questions.js file -calling the showQuestions function
-* @param {string, object, integer, string} 
+* @param {index: string} 
 */
 function showQuestions(index){
     const que_text = document.querySelector(".que_text");
@@ -151,7 +145,7 @@ let crossIconTag= '<div class="icon cross"><i class="fas fa-times"></i></div>';
 /*
 * This function starts when the user selects an answer. 
 * calls the optionSelected function
-* @param {object, integer, string} answer
+* @param {string: answer} 
 */
 function optionSelected(answer){
     clearInterval(counter);
@@ -189,7 +183,6 @@ function optionSelected(answer){
 /*
 * This function shows the result at the end of the quiz.
 * calls the showResult function.
-* @param {object, integer, string} activeInfo, activeQuiz, activeResult
 */
 function showResult(){
     info_box.classList.remove("activeInfo");
@@ -213,7 +206,7 @@ function showResult(){
 /*
 * This function calles the quiz box timer to start and count down
 * calls the startTimer function
-* @param {string}
+* @param {string: time}
 */
 function startTimer(time){
     counter = setInterval(timer, 1000);
@@ -243,7 +236,11 @@ function startTimer(time){
         }
     }
 }
-
+/*
+* This function starts the timer. 
+* calls the function
+* @param {string: answer} 
+*/
 function startTimerLine(time){
     counterLine = setInterval(timer, 29);
     function timer(){
@@ -258,7 +255,7 @@ function startTimerLine(time){
 /*
 * This function calles the question counter to change
 * calls the queCounter function 
-* @param {string}
+* @param {string: index}
 */
 function queCounter(index){
     let totalQueCounTag = '<span><p>' + index + '</p> of <p>' + questions.length +'</p> Questions </span>';
