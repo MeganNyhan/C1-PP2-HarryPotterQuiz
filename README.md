@@ -491,7 +491,7 @@ The Ultimate Harry potter Quiz, is a quiz that main purpose is to test members o
 
 <p> Due to limitations in my knowledge I googled certain code that I wanted to use for the site, see code listed below:</p>
 <ul>
-<li> Th epage 404 cose is taken from Free Front End Code (Sad Mac 404 Error Page : https://codepen.io/jkantner/pen/aPLWJm </li>
+<li> The page 404 cose is taken from Free Front End Code (Sad Mac 404 Error Page : https://codepen.io/jkantner/pen/aPLWJm </li>
 <li> Code to help with the contact form was taken from bootstrap: https://getbootstrap.com/docs/5.1/forms/form-control/ 
 </li>
 <li> I also used a youtube video to help further my understanding of JavaScript and aid me in the making of my quiz: https://www.youtube.com/watch?v=WUBhpSRS_fk&t=1732s . It was not copied and pasted directly but it was used for help so I thought I would mention it. </li>
