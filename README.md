@@ -347,7 +347,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     1."As a user, I want to a quiz that is responsive to all screen types."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Responsive site design| Use the website on serveral different screens | Website works fine ans effectively on all screens | Works as expected |
+| Responsive site design| Use the website on serveral different screens | Website works fine and effectively on all screens | Works as expected | The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.
 <details><summary>User Testing 1</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
@@ -403,7 +403,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     1."As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Interactive quiz | The site's user can enjoy a interactive quiz, answering question s with direct feedback | The user will enjoy the quiz | Works as expected |
+| Interactive quiz | The site's user can enjoy a interactive quiz, answering questions with direct feedback | The user will enjoy the quiz | Works as expected | 
 <details><summary>User Testing 7</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
