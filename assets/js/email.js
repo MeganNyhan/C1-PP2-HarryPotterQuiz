@@ -3,6 +3,10 @@
 * calls the function sendMail()
 */
 
+(function() {
+  emailjs.init("user_0eEFnDwvkPbLTvJE8wgr2");
+  })();
+  
 function sendMail(){
   let tempParams ={
     from_name: document.getElementById("fromName").value,
