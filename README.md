@@ -317,7 +317,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
 <details><summary>Contact</summary>
 <img src="docs/wave-validation/contact-accessibility.png"></details>
 <details><summary>Page404</summary>
-<img src="docs/wave-validation/p404-accessibility.pngg"></details>
+<img src="docs/wave-validation/p404-accessibility.png"></details>
 
 
 ## Performance
