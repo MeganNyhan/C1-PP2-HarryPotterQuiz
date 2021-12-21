@@ -349,7 +349,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     1."As a user, I want to a quiz that is responsive to all screen types."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Responsive site design| Use the website on serveral different screens | Website works fine and effectively on all screens | Works as expected | The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.
+| Responsive site design| Use the website on serveral different screens | Website works fine and effectively on all screens | Works as expected 
+| The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.
 <details><summary>User Testing 1</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
@@ -357,7 +358,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     2."As a user, I want to be able to test my knowledge of the harry potter universe and know how I scored at the end of the quiz."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected |
+| Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected 
 | Questions- Answer the questions, once finished press continue | Once the quiz is over | View the results in the result section | Works as expected |
 <details><summary>User Testing 2</summary>
 <img src="docs/testing-user-stories/user-story-2.jpg"></details>
@@ -405,7 +406,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     1."As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Interactive quiz | The site's user can enjoy a interactive quiz, answering questions with direct feedback | The user will enjoy the quiz | Works as expected | The site adapts to screen size, and is fully interactive | | The site's user can enjoy a interactive quiz, answering questions with direct feedback | The user will enjoy the quiz | Works as expected |
+| Interactive quiz | The site's user can enjoy a interactive quiz, answering questions with direct feedback | The user will enjoy the quiz | Works as expected 
+| The site adapts to screen size, and is fully interactive | | The site's user can enjoy a interactive quiz, answering questions with direct feedback | The user will enjoy the quiz | Works as expected |
 <details><summary>User Testing 7</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
@@ -413,7 +415,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     2."As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Responsive site design| Use the website on serveral different screens | Website works fine ans effectively on all screens |    Works as expected | The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.
+| Responsive site design| Use the website on serveral different screens | Website works fine ans effectively on all screens | Works as expected |
+The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.
 <details><summary>User Testing 8</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
