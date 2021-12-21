@@ -11,7 +11,7 @@ function sendMail(){
  };
 
  emailjs.send('service_f60q3jq', 'template_oebyimc', tempParams)
-  .then(function(res){
-    console.log("success", res.status);
-  })
-}
+  .then(
+    alert("Success, Your email has been sent!!")
+  )}
+  
