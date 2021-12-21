@@ -3,16 +3,16 @@
 * calls the function sendMail()
 */
 
-function sendMail(){
-  var tempParams = {
-    from_name: document.getElementById("fromName").value,
-    to_name: document.getElementById("toName").value,
-    message: document.getElementById("msg").value,
-  };
-  emailjs.send('gmail', 'template_ry67bk5', tempParams)
-  .then(function(res) {
-    window.alert("Your email has been sent!")
-  })
-}
-
-
+document.addEventListener('DOMContentLoaded', function(){
+  document.getElementsByClassName('contact-form').addEventListener('submit', function(event){
+    event.preventDefault();
+    emailjs.init("user_0eEFnDwvkPbLTvJE8wgr2");
+    emailjs.sendForm('harry-potter-quiz', template_ry67bk5, this)
+    .then (function (){
+      // successful email
+    }, function(error){
+      console.log('Failed', error);
+    });
+    toggleThankYouMessage();
+  });
+});
