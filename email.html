@@ -13,11 +13,17 @@
     <link rel="icon" href="assets/images/android-chrome-512x512.png" type="image/png"> 
     <!-- Email JS Required code-->
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+    <script type="text/javascript">
+        (function() {
+        emailjs.init("user_0eEFnDwvkPbLTvJE8wgr2");
+        })();
+</script>
     </head>
     <body>
         <!---Contact Form-->                    
         <section class="form-section">
-            <form class="contact-form" action="https://formdump.codeinstitute.net/"method="POST">
+            <form class="contact-form" >
                 <!--Contact form header-->
                 <h2> Fill out the form and tell us what you think of the quiz!</h2>
                 <!--Input for Contact Form-->
@@ -33,7 +39,7 @@
                 <label for="msg">Message</label>
                 <input id="msg" class="message-input" type="text" name="message" required placeholder=" Type Your Message Here"/>
                 <!--Submit Button-->
-                <button class="submit-button"  type="submit" value="Submit" onclick="sendMail()"> Send Email </button>
+                <button class="submit-button"  type="submit" value="Submit" onclick='sendMail()''> Send Email </button>
             </form>
      </section> 
      <!--Paragraph in contact page-->
