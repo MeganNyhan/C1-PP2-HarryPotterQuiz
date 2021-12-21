@@ -16,3 +16,18 @@ document.addEventListener('DOMContentLoaded', function(){
     toggleThankYouMessage();
   });
 });
+
+/*
+* This will call the function toggle thank you message (), remove the contacrt form and show a thank you form to the user
+*/
+
+function toggleThankYouMessage(){
+  let html=`
+  <p class ="thank-you"> Thank you for sending us feedback!</p>
+  <div class ="thank-you-image"> <img src="assets/images/android-chrome-512x512.png"></img>
+  </div>
+  <div class="return">
+    <a href="index.html" class="return-btn"> Return to Game</a>
+  </div>`;
+  document.getElementById('form-section').innerHTML = html;
+}
