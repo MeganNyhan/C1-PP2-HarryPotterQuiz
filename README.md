@@ -262,6 +262,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     <p>Site Owner's Stories covered: 2, 4, 6</p> 
         <details><summary>Contact form</summary>
         <img src="docs/features/contact-form.png"></details>
+         <details><summary>Proof that the contact form works</summary>
+        <img src="docs/features/contact-form-proof.png"></details>
 <hr>
 
 ### Working with EmailJS
