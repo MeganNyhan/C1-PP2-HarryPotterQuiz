@@ -349,8 +349,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     1."As a user, I want to a quiz that is responsive to all screen types."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Responsive site design| Use the website on serveral different screens | Website works fine and effectively on all screens | Works as expected 
-| The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.
+| Responsive site design| Use the website on serveral different screens | Website works fine and effectively on all screens | Works as expected|
+| The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.|
 <details><summary>User Testing 1</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
@@ -358,7 +358,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     2."As a user, I want to be able to test my knowledge of the harry potter universe and know how I scored at the end of the quiz."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected 
+| Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected|
 | Questions- Answer the questions, once finished press continue | Once the quiz is over | View the results in the result section | Works as expected |
 <details><summary>User Testing 2</summary>
 <img src="docs/testing-user-stories/user-story-2.jpg"></details>
@@ -397,7 +397,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 |Correct or Incorrect Answer |  Once the question is answered and the user selects their answer, an icon will come up with a tick (if right) or cross (if wrong). | User can easily read if they answered correctly or incorrectly | Works as expected |
-|Answer validaton for the user | Available within the question section|| Views if they got the answer wrong or right | Works as expected |
+|Answer validaton for the user | Available within the question section| Views if they got the answer wrong or right | Works as expected |
 <details><summary>User Testing 6</summary>
 <img src="docs/testing-user-stories/user-story-5.jpg"></details>
 
@@ -406,8 +406,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     1."As the owner of the site, I want my potential customers to have a place where they can enjoy playing a challenging quiz to entertain online users."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Interactive quiz | The site's user can enjoy a interactive quiz, answering questions with direct feedback | The user will enjoy the quiz | Works as expected 
-| The site adapts to screen size, and is fully interactive | | The site's user can enjoy a interactive quiz, answering questions with direct feedback | The user will enjoy the quiz | Works as expected |
+| Interactive quiz | The site's user can enjoy a interactive quiz, answering questions with direct feedback | The user will enjoy the quiz | Works as expected |
+| The site adapts to screen size, and is fully interactive | The site's user can enjoy a interactive quiz, answering questions with direct feedback | The user will enjoy the quiz | Works as expected |
 <details><summary>User Testing 7</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
@@ -415,8 +415,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     2."As the owner, I want the website to be fully interactive and responsive to any screen sizes our users have."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Responsive site design| Use the website on serveral different screens | Website works fine ans effectively on all screens | Works as expected |
-The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.
+| Responsive site design | Use the website on serveral different screens | Website works fine ans effectively on all screens | Works as expected |
+|The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.|
 <details><summary>User Testing 8</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
@@ -446,7 +446,7 @@ The website works on all screen sizes | Change the device your viewing the site 
     5."As the owner, I want a site that will have the potential to be built upon in the future."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| The start page offers the owner space to add more options| Navigation bar is wide and I as a developer intend to add a blog section in the future among other pages | To have more options added to the start page without comprimising the readability| Works in progress | The site is simple in design which lends itself to the ability to be adapted to hold more pages or content | Owner can build on the site | Site will hold more content | Works as expected
+| The start page offers the owner space to add more options| Navigation bar is wide and I as a developer intend to add a blog section in the future among other pages | To have more options added to the start page without comprimising the readability| Works in progress | The site is simple in design which lends itself to the ability to be adapted to hold more pages or content | Owner can build on the site | Site will hold more content | Works as expected |
 <details><summary>User Testing 11</summary>
 <img src="docs/features/start-screen.png">
 <p> The Navigation bar is simple and can easily be extended on any device..</p>
