@@ -349,8 +349,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     1."As a user, I want to a quiz that is responsive to all screen types."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Responsive site design| Use the website on serveral different screens | Website works fine and effectively on all screens | Works as expected|
-| The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.|
+| Responsive site design | Use the website on serveral different screens | Website works fine and effectively on all screens | Works as expected |
+| The website works on all screen sizes | Change the device your viewing the site on and it adapts | The site will adapt to the size of the screen | Works as Expected. |
 <details><summary>User Testing 1</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
@@ -358,7 +358,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     2."As a user, I want to be able to test my knowledge of the harry potter universe and know how I scored at the end of the quiz."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected|
+| Results section at the end of the quiz | Answer all the questions within the quiz to get an accurate result at the end of the quiz | The user is presented the results they scored from answering the questions in the quiz | Works as expected |
 | Questions- Answer the questions, once finished press continue | Once the quiz is over | View the results in the result section | Works as expected |
 <details><summary>User Testing 2</summary>
 <img src="docs/testing-user-stories/user-story-2.jpg"></details>
@@ -376,8 +376,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     4."As a user who's not tech savy, I want the quiz to be easy to navigate through and still be able to have as good of an experience as someone who knows how to navigate online better than me."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|Navigation| Navigate through the quiz easily and logically | Finds the quiz easy to navigate | Works as expected |
-|Navigation comprises as the buttons that are available throughout the quiz | All pages allows the user to continue on through the quiz. Once in the quiz you have to finish the quiz | Navigate the quiz easily | Works as expected |
+| Navigation | Navigate through the quiz easily and logically | Finds the quiz easy to navigate | Works as expected |
+| Navigation comprises as the buttons that are available throughout the quiz | All pages allows the user to continue on through the quiz. Once in the quiz you have to finish the quiz | Navigate the quiz easily | Works as expected |
 <details><summary>User Testing 4</summary>
 <img src="docs/testing-user-stories/user-story-4.1.jpg">
 <img src="docs/testing-user-stories/user-story-4.2.jpg"></details>
@@ -386,8 +386,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     5."As a user who doesn't understand websites, I want to easily know what answer I got wrong and right, and how many questions I still have to answer."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Correct or Incorrect Answer and question counter | Once the question is answered and the user selects their answer, an icon will come up with a tick (if right) or cross (if wrong). Once the next question button is pressed the question counter changes | User can easily read if they answered correctly or incorrectly and how many questions are left to answer |Works as expected |
-|Answer validaton for the user and question counter | Available within the question section | Views if they got the answer wrong or right, and how many question they have left to answer | Works as expected |
+| Correct or Incorrect Answer and question counter | Once the question is answered and the user selects their answer, an icon will come up with a tick (if right) or cross (if wrong). Once the next question button is pressed the question counter changes | User can easily read if they answered correctly or incorrectly and how many questions are left to answer | Works as expected |
+| Answer validaton for the user and question counter | Available within the question section | Views if they got the answer wrong or right, and how many question they have left to answer | Works as expected |
 <details><summary>User Testing 5</summary>
 <img src="docs/testing-user-stories/user-story-5.jpg"></details>
 
@@ -396,8 +396,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     6."As a user who is new to the Harry Potter universe, I want to know what the correct answer is before even when I have answered the questions wrong."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|Correct or Incorrect Answer |  Once the question is answered and the user selects their answer, an icon will come up with a tick (if right) or cross (if wrong). | User can easily read if they answered correctly or incorrectly | Works as expected |
-|Answer validaton for the user | Available within the question section| Views if they got the answer wrong or right | Works as expected |
+| Correct or Incorrect Answer |  Once the question is answered and the user selects their answer, an icon will come up with a tick (if right) or cross (if wrong). | User can easily read if they answered correctly or incorrectly | Works as expected |
+| Answer validaton for the user | Available within the question section | Views if they got the answer wrong or right | Works as expected |
 <details><summary>User Testing 6</summary>
 <img src="docs/testing-user-stories/user-story-5.jpg"></details>
 
@@ -416,7 +416,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Responsive site design | Use the website on serveral different screens | Website works fine ans effectively on all screens | Works as expected |
-|The website works on all screen sizes | Change the device your viewing the site on and it adapts| The site will adapt to the size of the screen | Works as Expected.|
+| The website works on all screen sizes | Change the device your viewing the site on and it adapts | The site will adapt to the size of the screen | Works as Expected.|
 <details><summary>User Testing 8</summary>
 <img src="docs/mock-up/mock-up.png"></details>
 <hr>
@@ -424,8 +424,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     3."As the owner, I want a website that is accessible to anyone."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|Navigation| Navigate through the quiz easily and logically | Finds the quiz easy to navigate | Works as expected |
-|Navigation comprises as the buttons that are available throughout the quiz | All pages allows the user to continue on through the quiz. Once in the quiz you have to finish the quiz | Navigate the quiz easily | Works as expected |
+| Navigation | Navigate through the quiz easily and logically | Finds the quiz easy to navigate | Works as expected |
+| Navigation comprises as the buttons that are available throughout the quiz | All pages allows the user to continue on through the quiz. Once in the quiz you have to finish the quiz | Navigate the quiz easily | Works as expected |
 <details><summary>User Testing 9</summary> <p>User can enjoy a logical, and simple, good experience from the onset of the quiz </p>
 <img src="docs/testing-user-stories/user-story-4.1.jpg">
 <img src="docs/testing-user-stories/user-story-4.2.jpg"></details>
@@ -434,7 +434,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     4."As the owner, I want a site that will follow the branding that has been established by the franchise."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|The colours used throughout the site is of the brand guidelines of the franchise| Recognisable colours of the website ties the quiz to the franchise| Knows from the first look of the quiz it's harry potter related| Works as expected |
+| The colours used throughout the site is of the brand guidelines of the franchise | Recognisable colours of the website ties the quiz to the franchise | Knows from the first look of the quiz it's harry potter related | Works as expected |
 <details><summary>User Testing 10</summary> <p> Brand guidelines </p>
 <img src="docs/colour-scheme/gryffindor.png">
 <img src="docs/colour-scheme/hufflepuff.png">
@@ -446,7 +446,7 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     5."As the owner, I want a site that will have the potential to be built upon in the future."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| The start page offers the owner space to add more options| Navigation bar is wide and I as a developer intend to add a blog section in the future among other pages | To have more options added to the start page without comprimising the readability| Works in progress | The site is simple in design which lends itself to the ability to be adapted to hold more pages or content | Owner can build on the site | Site will hold more content | Works as expected |
+| The start page offers the owner space to add more options | Navigation bar is wide and I as a developer intend to add a blog section in the future among other pages | To have more options added to the start page without comprimising the readability | Works in progress | The site is simple in design which lends itself to the ability to be adapted to hold more pages or content | Owner can build on the site | Site will hold more content | Works as expected |
 <details><summary>User Testing 11</summary>
 <img src="docs/features/start-screen.png">
 <p> The Navigation bar is simple and can easily be extended on any device..</p>
@@ -456,8 +456,8 @@ The Ultimate Harry potter Quiz, is a quiz that's main purpose is to test members
     6."As the owner, I want the customers to easily give feedback through email."
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|Contat Page with a contact form | Navigate to the Contact Page, using the link and find a contact form | Find the form easily and contact the business easily| Works as Expected|
-|Contact page with contact form| On any page scroll down to the contact page link| Finds the contact form | Works as expected |
+| Contat Page with a contact form | Navigate to the Contact Page, using the link and find a contact form | Find the form easily and contact the business easily | Works as Expected |
+| Contact page with contact form | On any page scroll down to the contact page link | Finds the contact form | Works as expected |
 <details><summary>User Testing 12</summary>
 <img src="docs/testing-user-stories/contact-form.png"></details>
 
